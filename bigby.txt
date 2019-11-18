@@ -1,0 +1,186 @@
+Bigby’s Bookworm Bane
+"Evocation"
+Level: 1
+Range: 20 yds.
+Components: V. S, M
+Casting Time: 1
+Duration: 1 turn/level
+Area of Effect: Special
+Saving Throw: None
+This spell is used to seek out and destroy one of the most feared enemies of the wizard: the bookworm. When cast, the spell creates a disembodied hand that will search through a library and crush all bookworms it finds. The hand can search through 100 books or scrolls per round, seeking out bookworms with a 95% chance of detection.\n\nOnce a worm is found, the hand will pursue the bookworm relentlessly, attacking with the skill of a fighter equal in level to the caster. A successful hit by the hand means the bookworm is instantly crushed to death. The hand possesses a Strength of 8, so it can move aside books and scrolls in pursuit of a fleeing bookworm. The hand cannot be harmed by physical attacks, but it can be destroyed by 4 or more points of magical damage. The hand is incapable of performing any other function or combating any other foe. Bigby used the spell periodically to safeguard his valuable library.\n\nThe material component is a child-sized glove made of tough leather.\n\nNotes: Uncommon or rare (WoG).
+
+Bigby’s Clenched Fist
+"Evocation"
+Level: 8
+Range: 5 yds./level
+Components: "V", "S", "M"
+Casting Time: 8
+Duration: 1 rd//level
+Area of Effect: Special
+Saving Throw: None
+The Bigby's clenched fist spell brings forth a huge, disembodied hand that is balled into a fist.  This magical member is under the mental control of the spell caster, who can cause it to strike one opponent each round, anywhere within the range of the spell. No concentration is required once the spell is cast. The clenched fist never misses, but it can only strike as directed by the caster (which precludes other attacks by the caster). Thus, it can be fooled by invisibility or other methods of concealment and misdirection. The effectiveness of its blows varies from round to round.\n\nD20 Roll\tResult\n\n1-12\tGlancing blow—1d6 hp\n13-16\tSolid punch—2d6 hp\n17-19\tHard punch—3d6 hp;\n\topponent is stunned for next round\n20\tCrushing blow*—4d6 hp;\n\topponent is stunned for next three rounds\n\n*The wizard adds +4 to the die rolls of subsequent attacks if the opponent is stunned, as the opponent is not capable of dodging or defending against the attack effectively.\n\nThe fist has an Armor Class of 0, and is destroyed by damage equal to the hit points of its caster at full health.\n\nThe material component of this spell is a leather glove and a small device consisting of four rings joined so as to form a slightly curved line, with an “I” upon which the bottoms of the rings rest. The device must be fashioned of an alloy of copper and zinc.\n\nNotes: Common or uncommon (PHB).
+
+Bigby’s Construction Crew
+"Evocation"
+Level: 4
+Range: 60 yds.
+Components: "V", "S", "M"
+Casting Time: 1 turn
+Duration: 12 hrs.
+Area of Effect: 180 ft. radius from caster
+Saving Throw: None
+This spell summons disembodied hands that will do the work of an entire construction crew.  The caster creates as many pairs of hands as he has experience levels. All of the hands come equipped with carpentry tools. The hands do the work of a construction team equal in ability to any crew of professional carpenters, masons, miners, or sappers. The hands never need to rest or eat, and each pair performs as one worker. The hands are unable to fight or inflict physical damage on anything. They cannot be destroyed by nonmagical means, and each pair has as many hit points as the caster has levels.\n\nThe material components of the spell include an assortment of miniature tools, worth at least 500 gp.\n\nNotes: Uncommon or rare (WoG).
+
+Bigby’s Crushing Hand
+"Evocation"
+Level: 9
+Range: 5 yds./level
+Components: "V", "S", "M"
+Casting Time: 9
+Duration: 1 rd./level
+Area of Effect: Special
+Saving Throw: None
+The Bigby's crushing hand spell creates a huge, disembodied hand similar to those of the other Bigby's hand spells. The crushing hand is under the mental control of the caster, and he can cause it to grasp and squeeze an opponent anywhere within the spells range. No attack roll is necessary; the hand automatically grasps and inflicts constriction damage in any round in which the wizard concentrates. The damage inflicted depends on the number of rounds it acts upon the victim.\n\n\t1st round\t1d10 points\n\n\t2nd & 3rd rounds\t2d10 points\n\n\t4th & beyond\t4d10 points\n\nThe crushing hand has an Armor Class of 0, has as many hit points as its caster at full strength, and vanishes when destroyed. The hand ts susceptible to normal combat attacks and damaging spells, but if it is struck by an area-effect spell, the person held suffers the same fate as the hand (1.e., if the hand fails its saving throw, the victim automatically fails his). The hand ts not effective against non-corporeal or gaseous forms, but it does prevent creatures that are able to slip through small cracks from escaping. If the hand grasps an item or construction, the appropriate saving throw must be made as if squeezed by a Strength of 25.\n\nThe material components of the spell are a glove of snake skin and the shell of an egg.\n\nNotes: Common or uncommon (PHB).
+
+Bigby’s Dexterous Digits
+"Evocation"
+Level: 2
+Range: 30 yds.
+Components: "V", "S", "M"
+Casting Time: 2
+Duration: 3 turns/level
+Area of Effect: 90-ft. radius from caster
+Saving Throw: None
+This spell summons into existence a pair of disembodied hands that will follow the wizard’s every order and accompany him wherever he goes. The hands can perform all the functions of an unseen servant, but can also accomplish deeds requiring fine coordination, such as tinkering with tools, working with laboratory equipment, sculpting, painting, or playing a musical instrument. The hands can perform any task the caster can accomplish, including non-weapon proficiencies known by the wizard. The hands will per-\nform with a dexterity equal to that of the caster.\nEach hand can hold and carry up to 20 pounds weight individually, or 50 pounds weight together.\nThe hands can move no farther apart than the caster’s own hands. The hands can move at a rate of 12, regardless of weight carried, but can move no farther than 90 feet away from the caster, or they vanish.\n\nThe hands cannot act out the somatic component of a spell. The hands cannot wield a weapon in melee or punch or grapple. They are immune to physical attacks, but can be destroyed by 6 or more points of magical damage.\n\nThe material component is a pair of gloves embroidered with the wizard’s initials.\n\nNotes: Uncommon or rare (WoG).
+
+Bigby’s Fantastic Fencers
+"Evocation"
+Level: 5
+Range: 20 yds.
+Components: "V", "S", "M"
+Casting Time: 5
+Duration: 1 rd./level
+Area of Effect: 60 ft. radius from caster
+Saving Throw: None
+This spell creates one hand for every three levels of the caster, each of which holds a long sword. Each hand fights with the skill of a fighter of one-half the experience level of the caster.\nEach hand is AC 2 because of its small size and speed, and each can sustain 15 points of damage before being dispelled. Each fencer is capable of disarming an opponent and docs so on a roll four greater than the roll needed to hit. A fencer likewise disarmed of its sword is dispelled automatically. The caster need not concentrate on the fencers to keep them functioning, but only has to give them orders as if they were henchmen.\n\nThe material component is a small, silver amulet shaped like a mailed gauntlet holding a gem-encrusted sword, worth at least 1,000 gp\n(this vanishes when the spell is cast).\n\nNotes: Uncommon or rare (WOG).
+
+Bigby’s Feeling Fingers
+"Evocation"
+Level: 1
+Range: 60 yds.
+Components: "V", "S", "M"
+Casting Time: 1
+Duration: 1 hour + 1 turn/level
+Area of Effect: Special
+Saving Throw: None
+This spell calls into existence a disembodied hand under the caster’s command. The hand cannot hold, grasp, or carry, but it does have an amazingly sensitive sense of touch. The hand’s sense of touch is so fine that it can note minuscule cracks, separations, or openings in a surface, and thus detect the presence of a secret or concealed door with a 50% chance of success. The hand can search a 10 foot by !0 foot area each turn. The hand cannot be destroyed by physical attacks, but it is dispelled if dealt 4 or more points of magical damage. The hand can trip a nonmagical trap if the location of the trap 1s known.\n\nThe material components for the spell area child-sized silk glove and a swan’s feather.\n\nNotes: Uncommon or rare (WOG).
+
+Bigby’s Force Sculpture
+"Evocation"
+Level: 4
+Range: 30 yds.
+Components: "V", "S", "M"
+Casting Time: 1 rd.
+Duration: 1 turn/level
+Area of Effect: Creates 1 cu. ft./level
+Saving Throw: None
+This very flexible spell enables the wizard to create a visible plane of force that can be shaped into any form the caster wishes. The caster could create a table, ladder, club, bucket, stilts, or cane, for example. Once an object is formed, it retains its form for the duration of the spell. The object imitated must be fairly rigid, can have no moving parts, cannot have a sharp point or edge, and cannot possess finely detailed features. A rope, long bow, sword, chariot, or accurate statue cannot be created with the spell. All objects formed out of force cannot be harmed by physical attacks, but can be dispelled by magical attacks that inflict more points of damage to the object than the creator’s hit points. Up to 1 cubic foot of matter per level of the caster can be simulated.\n\nThe material component for the spell is a lump of soft clay with diamond dust mixed into it.\n\nNotes: Uncommon or rare (WoG).
+
+Bigby’s Forceful Hand
+"Evocation"
+Level: 6
+Range: 10 yds./level
+Components: "V", "S", "M"
+Casting Time: 6
+Duration: 1 rd./level
+Area of Effect: Special
+Saving Throw: None
+Notes: Common or uncommon (PH8).\nBigby’s forceful hand is a more powerful version of Bigby's interposing hand. It creates a man-sized (5 feet) to gargantuan-sized (21 feet)\nhand that places itself between the spell-caster and a chosen opponent. This disembodied hand then moves to remain between the two, regardless of what the spell-caster does or how the opponent tries to get around it. However, the forceful hand also pushes on the opponent. This force can push away a creature weighing 500 pounds or less, slow movement to 10 feet per round if the creature weighs between 500 and 2,000 pounds, or slow movement by 50% if the creature weighs more than 2,000 pounds.\n\nA creature pushed away is pushed to the range limit, or until pressed against an unyielding surface. The hand itself inflicts no damage. The forceful hand has an Armor Class of 0, has as many hit points as its caster in full health, and vanishes when destroyed. The caster can cause it b retreat (to release a trapped opponent, for example) or dismiss it on command.\n\nThe material component is a glove.\n\nNotes: Common or uncommon (PHB).
+
+Bigby's Grasping Hand 
+"Evocation" 
+Level: 7 
+Range: 10 yds./level 
+Components: "V", "S", "M" 
+Casting Time: 7 
+Duration: I rd./level 
+Area of Effect: Special 
+Saving Throw: None 
+Bigby's grasping hand is a superior version of the 6th-level spell Bigby's forceful hand. It creates a man-sized (5 feet) to gargantuan-sized (21 feet) hand that appears and grasps a creature designated by the caster, regardless of what the spell­caster does or how the opponent tries to escape it. The grasping hand can hold motionless a creature or object of up to 1,000 pounds weight, slow movement to 10 feet per round if the creature weighs between 1,000 and 4,000 pounds, or slow movement by 50% if the creature weighs up to 16,000 pounds. The hand itself inflicts no dam­age. The grasping hand has an Armor Class of 0, has as many hit points as its caster in full health, and vanishes when destroyed. The caster can order it to release a trapped opponent or can dis­miss it on command.\n\nThe material component is a leather glove.\n\nNotes: Common or uncommon (PHH).
+
+Bigby's Interposing Hand 
+"Evocation" 
+Level: 5 
+Range: 10 yds./level 
+Components: V. S, M
+Casting Time: 5 
+Duration: 1 rd./level 
+Area of Effect: Special 
+Saving Throw: None 
+The Bigby's interposing hand spell creates a man-sized to gargantuan-sized magical hand that appears between the spell-caster and his chosen opponent. This disembodied hand then moves to remain between the two, regardless of what the spell-caster does or how the opponent tries to get around it. Neither invisibility nor polymorph fools the hand once a creature has been chosen. The hand does not pursue an opponent.\n\nThe size of the hand is determined by the wizard, and it can be from man-size (5 feet) all the way up to titan size (25 feet). It provides cover for the caster against the selected opponent, with all the attendant combat adjustments. It has as many hit points as the caster in fill health and has an Armor Class of 0./n/nAny creature weighing less than 2,000 pounds trying to push past the hand is slowed to half its normal movement. [f the original opponent is slain, the caster can designate a new opponent for the hand. The caster can command the hand out of existence at any time./n/nThe material component of the spell is a soft glove./n/nNotes: Common or uncommon (PHB).
+
+Bigby’s Most Excellent Force Sculpture
+"Evocation"
+Level: 8
+Range: 30 yds.
+Components: "V", "S", "M"
+Casting Time: 1 turn
+Duration: 6 turns + 1 turn/level
+Area of Effect: Creates 1 cu. yd./level
+Saving Throw: None
+This spell is the most advanced form of the force sculpture spells. The object formed can be highly complex, containing many moving parts, such as a siege machine or sailing ship. Parts of an object simulated could be as flexible as a rope or the wood of a bow, so a large net, ballista, rope bridge, or collection of crossbows could be formed. As with lesser force sculptures, fine or accurate details require an additional 2d4 rounds to form, along with sufficient skill as an artist or artisan. Up to | cubic yard of matter per level of the caster can be simulated. With the exceptions noted above, the spell is otherwise identical to the\n4th-level spell of the same type.\n\nThe material component is a lump of clay mixed with 1,000 gp of diamond dust, which vanishes when the spell is used.\n\nNotes: Uncommon or rare (WoG).
+
+Bigby’s Pugnacious Pugilist
+"Evocation"
+Level: 3
+Range: 60 yds.
+Components: "V", "S", "M"
+Casting Time: 3
+Duration: 2 rds./level
+Area of Effect: Creates 1 pair of hands
+Saving Throw: None
+This spell creates a pair of man-sized hands, appearing as clenched and padded fists. The hands pummel with the effectiveness of an 18/50\nStrength fighter of one-half the caster’s experience level. The hands together fight as an individual with AC 4 and 3 hit points per level of the wizard. The hands are dispelled when they run out of hit points. The hands can pummel only, and cannot hold a weapon or grapple. The hands cannot be grappled or overborne, since they can easily flit away.\n\nThe material components are a mitten stuffed with cotton and a brass bell.\n\nNotes: Uncommon or rare (WoG).
+
+Bigby’s Silencing Hand
+["Enchantment", "Evocation"]
+Level: 2
+Range: 40 yds.
+Components: "V", "S", "M"
+Casting Time: 2
+Duration: 2 rds./level
+Area of Effect: 1 creature
+Saving Throw: None
+This spell creates an appropriately sized hand that will fly toward the chosen creature and clamp tightly over the creature’s mouth unless the creature makes its saving throw. A creature affected by the spell will be unable to talk clearly, cannot cast any spell requiring a verbal component, or use a magical item triggered by an audible command word. The hand cannot be pulled away from a creature’s mouth or be harmed by a physical attack, but can be destroyed by six or more points of magical damage, although most magical attacks carry the risk of harming the affected creature. A successful dispel magic spell destroys the hand without injury to the creature.\n\nThe material component is a cloth glove smeared with sticky syrup or honey.\n\nNotes: Uncommon or rare (WG).
+
+Bigby’s Strangling Grip
+"Evocation"
+Level: 5
+Range: 10 yds./level
+Components: "V", "S", "M"
+Casting Time: 5
+Duration: 2 rds.
+Area of Effect: 1 creature
+Saving Throw: None
+ This spell creates a pair of disembodied hands that will seek out a creature’s throat and strangle the creature much like an attack with a garrote.\nThe hands must make a successful attack roll to grab the creature’s throat, attacking with +4 to hit to wizard’s THACO, because of the attack's speed and ferocity. A miss with the first attack allows an attack for damage only in the next round.\n\nThe strangling grip established in the first round inflicts 1d4 points of damage, and will strangle its victim to death by the end of the next round unless the creature is freed. The victim can break the grip with a successful bend bars roll\n(creatures vulnerable to this attack, but without Strength scores, save vs. petrification with a —4\npenalty). The grip will be released if the wizard’s concentration is broken.\n\nThe hands have no effect against any creature that the caster could not himself physically strangle with his bare hands; for example, an ochre jelly, a cow, or any creature above large size (L).\nLikewise, such throat protection as a hardened leather collar or a metal gorget will frustrate the attack; the spell grants no strength beyond the caster’s own. If the attack is not made by surprise or from a blind quarter, the hands can be parried with a ready weapon or limb; a successful parry blocks the attack.\n\nThe material components are a pair of gloves sewn into a clutching grip around the neck of a bottle.\n\nNotes: Uncommon or rare (WoG).
+
+Bigby’s Superior Force Sculpture
+"Evocation"
+Level: 5
+Range: 30 yds.
+Components: "V", "S", "M"
+Casting Time: 1 rd.
+Duration: 3 turns + 1 turn/level
+Area of Effect: Creates 8 cu. ft./level
+Saving Throw: None
+This spell is a more advanced form of the 4th-level force sculpture spell. The object or objects formed from force can be more complex, composed of large, moving parts, or have an edge or point, but still must be fairly rigid. A wagon, quiver of quarrels, shovel, sword, or water wheel all could be simulated, but not a mechanical timepiece, crossbow, or spring. Fine details can be worked into an object, provided the caster has sufficient skill as an artisan or sculptor. Fine details take 2d4 rounds to place on an object, but remain for the duration of the spell. Up to 8 cubic feet of matter per level of the caster can be simulated. The duration of the spell is also longer than force sculpture. Superior force sculpture is otherwise identical to the 4th-level spell.\n\nThe material component is a lump of clay with diamond dust mixed into it.\n\nNotes: Uncommon or rare (WoG).
+
+Bind
+"Enchantment"
+Level: 2
+Range: 30 yds.
+Components: "V", "S", "M"
+Casting Time: 2
+Duration: 1 rd./level
+Area of Effect: 50 ft. + 5 ft./level
+Saving Throw: None
+When this spell 1s employed, the wizard can command any nonliving rope-like object, including string, yarn, cord, line, rope, or even a cable.  The spell affects 50 feet of normal rope (with a 1 inch diameter), plus 5 feet per caster level. This length is reduced by 50% for every additional inch of thickness and increased by 50% for each half-inch less. The possible commands are Coil (form a neat, coiled stack), Coil & Knot, Loop, Loop & Knot, Tie & Knot, and the reverses of all of the above (Uncoil, etc.). One command can be given each round.\n\nThe rope can only enwrap a creature or an object within 1 foot of it—it does not snake outward—so it must be thrown or hurled near the intended target. Note that the rope itself, and any knots tied in it, are not magical. A typical rope might be AC 6 and take 4 points of slashing damage before breaking. The rope does not inflict damage of any type, but it can be used as a trip line or to entangle a single opponent who fails a saving throw vs. spell.\n\nNotes: Common spell (PHB).
