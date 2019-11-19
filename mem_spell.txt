@@ -22,7 +22,7 @@ Area of Effect| Creature touched
 Saving Throw| None 
 Description| With this spell, the caster creates a small variation in probabilities. This variation lasts only a moment, but creates alternate results for one recent event. When the spell is cast, any one event attempted by the recipient during the previous round is recalculated, essentially allowing ( or forcing) the creature to make new die rolls.\nOnly events that begin and end in a single round can be affected. Only one die roll can be rerolled. If the creature touched is a willing recipient, the player can choose which roll (the original or the new roll) affects him, more than likely picking the most successful. If the creature is unwilling, he must redo the action. The second result, whatever its outcome, cannot be changed.\nTypical uses of this spell include allowing a fighter to re-roll an attack, forcing an opponent to re-roll a saving throw, or allowing a wizard to re-roll the damage caused by a fireball.\nThe material component is a small, unmarked die.\nNotes: Restricted to wild mages; uncommon (ToM).
 
-Abi-Dalzim's Horrid Wilting 
+Name| Abi-Dalzim's Horrid Wilting 
 (Alteration, Necromancy, Water) 
 Level: 8 
 Range: 20 yds./level 
@@ -34,7 +34,7 @@ Saving Throw: ½
 Description| This spell evaporates moisture from the bodies of every living creature within the area of effect, inflicting 1 d8 points of damage per level of the caster, 10 a maximum of I 6d8. Affected creatures are allowed a saving throw vs. spell for half dam­age. This spell is especially devastating to water elementals and plant creatures, who receive a penalty of -2 to their saving throws. 
 The material component is a bit of sponge. Notes: Uncommon or rare (ToM). 
 
-Absorption 
+Name| Absorption 
 (Abjuration, Evocation) 
 Level: 9 
 Range: 0 
@@ -46,8 +46,7 @@ Saving Throw: None
 Description| This spell enables the caster to absorb and redirect magical energy, up to ten spell levels. The incoming spell is nullified and its energy is stored for later use. Any type of spell can be absorbed, except for the following: area spells not targeted directly at the caster, touch attack spells, and the effects of magical devices. Priest spells, any spell scroll, and any spell-like ability use can be absorbed. 
 At any time during the spell 's duration, the caster can expend stored energy to cast a currently memorized spell, without wiping it from his memory. This has a casting time of 1. For example, a wizard absorbing a feeblemind spell (5th level) releases a lightning bolt (3rd level), has two levels of energy available, and can absorb five more levels of spell energy before the capac­ity of the spell is completely used. Unused energy and storage capacity are lost when the spell ends. 
 If an incoming spell exceeds the remaining capacity of the absorption spell, the caster gains a +2 bonus to his saving throw for each incoming spell level that is absorbed, even against spells that normally allow no saving throw. A roll of 1 always fails, regardless of the total of the modifiers. 
-The caster can voluntarily suppress the absorption for a round in order to receive beneficial spells, but cannot absorb hostile spells in that round. 
-The spell requires an amulet worth at least 1,000 gp, which must be kept on the caster's per­son for duration of the spell. The amulet glows when spell energy is stored. It can be reused. 
+The caster can voluntarily suppress the absorption for a round in order to receive beneficial spells, but cannot absorb hostile spells in that round.\n\nThe spell requires an amulet worth at least 1,000 gp, which must be kept on the caster's per­son for duration of the spell. The amulet glows when spell energy is stored. It can be reused. 
 Notes: Very rare. (Updated from POLYHEDRON Newszine.)
 
 Name| Acid Bolt
@@ -78,7 +77,7 @@ For example, an evil fighter is struck by two arrows, taking 3 and 4 points of d
 The material component of an afterclap is a bit of stiff rubber or gum that is pulled until it snaps back. 
 Notes: Very rare in the FORGOTTEN REALMS setting and for cbronomancers; virtually unknown elsewhere.
 
-Agra's Ambush 
+Name| Agra's Ambush 
 (Abjuration), Mentalism) 
 Level: 2 
 Range: Touch 
@@ -92,7 +91,7 @@ This trap instantly discharges upon any psionic contact or attack, as well as mi
 The material component is some roughly ground glass, which must be sprinkled in a circle around the recipient. 
 Notes: Uncommon or rare for mentalists and psionic spellcasters; other wise very rare. (Updated from POLYHEDRONNewszine.)
 
-Airboat 
+Name| Airboat 
 (Alteration, Enchantment) 
 (Air) 
 Level: 8 
@@ -107,7 +106,7 @@ Although the airboat is made of cloud, it feels solid and can support the weight
 The caster maintains total telepathic control over the airboat's speed and direction. While con­trolling the vessel, the wizard is able to perform other actions but cannot cast other spells. 
 Notes: Common for Air mages; uncommon for others (ToM). 
 
-Airbolt 
+Name| Airbolt 
 (Alteration) 
 (Air, Force, Water) 
 Level: 3 
@@ -121,7 +120,7 @@ Only one creature or object can be the target of this spell. Damage for this spe
 1n the air, this bolt inflicts only half the number of dice damage as it does underwater (round up), and it will not not work in a vacuum at all. 
 Notes: Uncommon for Air and Water mages; rare for others. (Updated from DRAGON Magazine.)
 
-Airy Water 
+Name| Airy Water 
 (Alteration) 
 (Air, Water) 
 Level: 5 
@@ -136,7 +135,7 @@ Description| The airy water spell turns normal liquid, such as water or water-ba
 The material component of the spell is a small handful of alkaline or bromine salts.
 Notes: Common spell (PHB).
 
-Alamir's Fundamental Breakdown 
+Name| Alamir's Fundamental Breakdown 
 {Divination) 
 (Air, Earth, Fire, Water, Alchemy) 
 Level: 3 
@@ -155,7 +154,7 @@ This spell has detrimental effects on the magi­cal item analyzed. Single-use it
 The material component is a wand cut from a 100-year-old oak tree. The wand is used to touch the item in question, and vanishes in a puff of smoke when the spell is complete.
 Notes: Uncommon or rare spell (ToM).
 
-Algarth's Embattlement 
+Name| Algarth's Embattlement 
 (Alteration) 
 Level: 9
 Range: 0 
@@ -170,7 +169,7 @@ The spells stored in an embattlement cannot be released or ruined by any magic s
 The material components of Algarth's embattlement are four drops of water and a gem of not less than 4,000 gp value. 
 Notes: Rare or very rare in the FORGOTTEN REALMS setting; virtually unknown elsewhere. 
 
-Alter Reality 
+Name| Alter Reality 
 (Illusion/Phantasm) 
 Level: 7 
 Range: Unlimited 
@@ -211,7 +210,7 @@ If any Alustriel's improved mantle ever comes into direct contact with another i
 The material components of an Alustriel's improved mantle are a gem of any sort worth 50 gp or more and a tiny glass vial that the caster has breathed into and then stoppered at least a day (24 hours) before casting the spell. 
 Notes: Restricted to the Seven Sisters, their apprentices, and select Harpers; rare or very rare. 
 
-Alustriel's Mantle 
+Name| Alustriel's Mantle 
 (Abjuration) 
 Level: 4 
 Range:O 
@@ -228,7 +227,7 @@ If two Alustriel's mantles ever come into con­tact, the result is a brief writh
 The material component of an Alustriel's mantle is a tiny glass vial that the caster has breathed into and then stoppered at least a day (24 hours) before spellcasting. 
 Notes: Restricted to the Seven Sisters, their apprentices, and select Harpers; uncommon or rare. 
 
-Antimagic Aura - Elf 
+Name| Antimagic Aura - Elf 
 (Abjuration) 
 Level: 6 
 Range: 10 yds./level 
@@ -241,7 +240,7 @@ Description| This spell acts in somewhat the same manner as the antimagic shell,
 The subject of this spell can cast no magic, nor can an affected enchanted creature attack or use spell-like abilities for the spell's duration. Enchanted weapons cannot use bonuses or special powers, functioning as ordinary weapons. As with the antimagic shell, this spell is ineffective against extra-planar creatures on their borne plane. Unlike antimagic shell, the aura can be eliminated by a successful dispel magic spell from an unaffected caster. 
 Notes: Common for elves of Evermeet; uncommon for other elves; very rare for others. 
 
-Antimagic Shell 
+Name| Antimagic Shell 
 (Abjuration) 
 Level: 6 
 Range: 0 
@@ -257,7 +256,7 @@ The spell does not destroy or dispel existing enchantments. nor will it affect m
 Should the caster be larger than the area enclosed by the barrier, parts of his person may be considered exposed, at the DM 's option. A dis­pel magic spell does not remove the spell; the caster can end it upon command.
 Notes: Common spell (PHB).
 
-Aryeric's Cloak of Protection 
+Name| Aryeric's Cloak of Protection 
 (Abjuration) 
 Level: 4 
 Range: 0 
@@ -272,7 +271,7 @@ The cloak moves with the caster, and anyone moving outside the spell's radius is
 The material component is a strip of cloth soaked in ink. 
 Notes: Rare or very rare spell. (Updated from POLYHEDRON Newszine.) 
 
-Black Blade of Disaster - Drow 
+Name| Black Blade of Disaster - Drow 
 (Conjuration/Summoning, Evocation) 
 Level: 9 
 Range: LO yds./level 
@@ -287,7 +286,7 @@ Against creatures, a black blade does 2dl2 points of damage per strike. If the c
 All magical attacks and effects directed at the rift are absorbed. Anyone trying to seize or physically attack the blade is affected as if struck by the blade. The caster suffers ld2 points of damage every time he strikes with the blade, as it draws off some of his lifeforce as well. This damage does not by itself disrupt his concentration.
 Notes: Restricted to drow; very rare.
 
-Blacklight 
+Name| Blacklight 
 (Alteration) 
 Level: 3 
 Range: 10 yds./level 
@@ -299,11 +298,11 @@ Saving Throw: Special
 Description| Upon casting this spell, the wizard creates a stationary, temporary area of total darkness. The darkness is impenetrable to normal vision and infravision, but the caster can see and move normally within the blacklit area. The caster can attack and cast spells normally within the limits of his blacklight. Each round, every other creature in the blacklit area is allowed saving throw vs. spell at -3. Those who succeed can see as the wizard does for that round, while those who fail are wrapped in total darkness. Those outside the sphere cannot see into it. 
 Normal and magical lights are doused by the blacklight. The casting of a light, continual light, or dispel magic spell to counter this spell destroys the blacklit area. 
 Creatures within the blacklit area have a -4 penalty to attack rolls and saving throws and have their Armor Class reduced by 4. Those with blindfighting proficiency are penalized by only -2 to their attack rolls and saving throws and have no penalty to Armor Class.
-The caster of a blacklight spell can end it at will, though continuous concentration is not nec­essary to maintain it. Note that spells that depend on visual effects (such as illusions) do not function if the victim cannot see them. 
+The caster of a blacklight spell can end it at will, though continuous concentration is not necessary to maintain it. Note that spells that depend on visual effects (such as illusions) do not function if the victim cannot see them. 
 The material components of this spell are a piece of coal and the dried eyeball of any creature. 
 Notes: Very rare. Known to be in Se/vars Ineffable Conjurations, Magic, and Phantasms. 
 
-Blackmantle
+Name| Blackmantle
 (Enchantment, Necromancy) 
 Level: 6 
 Range: 60 yds. 
@@ -317,7 +316,7 @@ If the saving throw is failed, the creature is affected for 1 turn per level of 
 The material component for this spell is a small mummified animal, such as a mouse or a toad. 
 Notes: Restricted to necromancers; common. 
 
-Blacksphere 
+Name| Blacksphere 
 (Abjuration, Evocation) 
 Level: 4 
 Range: 10 yds. + 2 yds./level 
@@ -341,20 +340,20 @@ Duration: 1 rd.
 Area of Effect: I bladed weapon 
 Saving Throw: None 
 Description| This spell allows the caster to make any bladed weapon fly from his hand to strike at a chosen being. The weapon need not be one in which the caster is proficient, and it strikes only once, with a magical bonus of +4 on both attack and damage rolls. 
-The weapon is not consumed in the casting, but does not return to the caster. lt falls to the ground after a single attack. J f the caster tries to send it beyond 10 feet per experience level, the weapon falls to the ground at that distance and the spell is wasted. 
+The weapon is not consumed in the casting, but does not return to the caster. lt falls to the ground after a single attack. If the caster tries to send it beyond 10 feet per experience level, the weapon falls to the ground at that distance and the spell is wasted. 
 The material components of this spell are a hair from the caster or a thread from the caster's garments. 
 Notes: Uncommon in the FORGOTTEN REALMS setting; virtually unknown elsewhere.
 
-Blindness 
+Name| Blindness 
 (Illusion/Phantasm) 
 Level: 2 
 Range: 30 yds. + 10 yds./level 
 Components: V 
 Casting Time: 2 
 Duration: Permanent 
-Area of Effect: I creature 
+Area of Effect: 1 creature 
 Saving Throw: Neg. 
-Description| The blindness spell causes the victim to become blind, able to see only a grayness before its eyes. Vanous cure spells will not remove this effect, and only a dispel magic or the spellcaster can do away with the blindness if the creature fails its initial saving throw vs. spell. A blinded creature suffers a -4 penalty to its attack rolls, and its opponents gain a +4 bonus to their attack rolls.
+Description| The blindness spell causes the victim to become blind, able to see only a grayness before its eyes. Various cure spells will not remove this effect, and only a dispel magic or the spellcaster can do away with the blindness if the creature fails its initial saving throw vs. spell. A blinded creature suffers a -4 penalty to its attack rolls, and its opponents gain a +4 bonus to their attack rolls.
 Notes: Common spell (PHB).
 
 Name| Blossom
@@ -371,7 +370,7 @@ The improvement is a matter of degree-a truly terrible drought cannot be overrid
 The material components of the spell are an ear of grain and a skin of water (about a gallon). 
 Notes: Restricted to practitioners of pluma magic (the Maztica setting); common.
 
-Blur 
+Name| Blur 
 (Illusion/Phantasm) 
 Level: 2 
 Range: 0 
@@ -395,7 +394,7 @@ This prevents harm only from decapitation or dismemberment; other damage applies
 The material components of the body link spell are a pearl worth at least 500 gp, which is destroyed during casting, and a small amount of tree sap, which must be consumed by the caster. 
 Notes: Common in Arabian settings; otherwise very rare. 
 
-Bombard - Old Empire 
+Name| Bombard - Old Empire 
 (Evocation) 
 Level: 8 
 Range: 10 yds./level 
@@ -410,7 +409,7 @@ A creature with magic resistance checks each round-a successful resistance roll 
 The material component for this spell is a piece of meteoric iron. 
 Notes: Rare spell. As a FORGOTTEN REALMS Old Empire spell, initial exposure requires a mentor or a read Southern magic spell.
 
-Bone Blade 
+Name| Bone Blade 
 (Abjuration, Evocation, Necromancy) 
 Level: 8 
 Range: 0 
@@ -697,7 +696,7 @@ Casting Time: 2 rds.
 Duration: Instantaneous 
 Area of Effect 1 corpse 
 Saving Throw: None 
-An embalm spell enables the caster to protect a corpse (or a part thereof) against the natural forces of decay and dissolution, until some la1er time when it is needed for a spell. (f the embalmed cadaver is later animated as a zombie, golem, or other form of animated undead, the creature gains +2 hit points per Hit Die (8 hp per Hit Die maximum) because of the greater strength and resiliency imparted by the spell to the dead tissue. The spell has no beneficial effect if cast on skeletal remains or on previously animated undead.\n\nThus preserved, a corpse permanently retains the same odor and appearance it had at the time of casting. The embalm spell does not reverse the effects of putrefaction, but it does prevent any further decay of an individual's physical remains. Unlike more powerful spells (such as Nulathoe's ninemen or the priest spell spirit bind), the embalm spell does not facilitate subsequent resurrection of a corpse.\n\nThe material component is a salve of rare unguents worth 100 gp.\n\nNotes: Restricted to necromancers; uncommon.
+An embalm spell enables the caster to protect a corpse (or a part thereof) against the natural forces of decay and dissolution, until some later time when it is needed for a spell. (f the embalmed cadaver is later animated as a zombie, golem, or other form of animated undead, the creature gains +2 hit points per Hit Die (8 hp per Hit Die maximum) because of the greater strength and resiliency imparted by the spell to the dead tissue. The spell has no beneficial effect if cast on skeletal remains or on previously animated undead.\n\nThus preserved, a corpse permanently retains the same odor and appearance it had at the time of casting. The embalm spell does not reverse the effects of putrefaction, but it does prevent any further decay of an individual's physical remains. Unlike more powerful spells (such as Nulathoe's ninemen or the priest spell spirit bind), the embalm spell does not facilitate subsequent resurrection of a corpse.\n\nThe material component is a salve of rare unguents worth 100 gp.\n\nNotes: Restricted to necromancers; uncommon.
 
 Name| Elude Blow 
 (Abjuration, Force) 
