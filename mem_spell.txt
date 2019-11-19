@@ -23,8 +23,7 @@ Saving Throw| None
 Description| With this spell, the caster creates a small variation in probabilities. This variation lasts only a moment, but creates alternate results for one recent event. When the spell is cast, any one event attempted by the recipient during the previous round is recalculated, essentially allowing ( or forcing) the creature to make new die rolls.\nOnly events that begin and end in a single round can be affected. Only one die roll can be rerolled. If the creature touched is a willing recipient, the player can choose which roll (the original or the new roll) affects him, more than likely picking the most successful. If the creature is unwilling, he must redo the action. The second result, whatever its outcome, cannot be changed.\nTypical uses of this spell include allowing a fighter to re-roll an attack, forcing an opponent to re-roll a saving throw, or allowing a wizard to re-roll the damage caused by a fireball.\nThe material component is a small, unmarked die.\nNotes: Restricted to wild mages; uncommon (ToM).
 
 Abi-Dalzim's Horrid Wilting 
-(Alteration, Necromancy) 
-(Water) 
+(Alteration, Necromancy, Water) 
 Level: 8 
 Range: 20 yds./level 
 Components: V, S, M 
@@ -768,4 +767,37 @@ Duration: Permanent
 Area ofEffect: 1 object or construct 
 Saving Throw: None 
 This spell creates a very small gate to the Elemental Plane of Fire, calling through flame about equal to that on a torch. The flame is completely normal in all ways, except that since it comes from the Elemental Plane ofFire, It needs no fuel and continues to burn under any circumstance-­ without air, underwater, when covered with sand, etc. The flame lights any flammables that touch it, and it never goes out unless a dispel magic spell (or a stronger spell, like limited wish) is used to extinguish it.\n\nThe everlasting fire spell can be cast on a mobile or stationary object, but it bums anything flammable. The spell cannot be placed on any type of creature accept a magical construct. Most casters place everlasting fire on an object made of stone or sturdy metal.\n\nThis spell can be used to make a magical item in the same manner as continual light can be placed on a rod. Such an "everburning torch" must be made of some nonflammable material. In order for the item to be carried safely, some insulation should be used. A Daltim's proof against fire spell (described elsewhere) is a good way to make it possible to carry the "everburning torch."\n\nThe material components for this spell are a bit of wood soaked in lamp oil; the material is consumed during casting.\n\nNotes: Rare spell. Known to be in Daltim's Tome of Fire.
+
+Name| Flame Arrow 
+(Conjuration/Summoning) 
+(Alchemy, Artifice, Fire) 
+Level: 3 
+Range: 30 yds. + 10 yds./level 
+Components: V, S, M 
+Casting Time: 3 
+Duration: 1 rd. 
+Area of Effect: Special 
+Saving Throw: None 
+Description| This spell has two effects, First, the wizard can cause normal arrows or crossbow bolts lo become magical flaming missiles for one round. The missiles must be nocked and drawn (or cocked) at the completion of the spell. If they are not loosed within one round, they are consumed by the magic. For every five levels the caster has achieved, up to 10 arrows or bolts can be affected. The arrows inflict normal damage, plus 1 point of fire damage to any target struck. They may also cause incendiary damage. This version of the spell is used most often in large battles.\n\nThe second version of this spell enables the caster to hurl fiery bolts at opponents within range. Each bolt inflicts 1d6 points of piercing damage, plus 4d6 points of fire damage. Only half the fire damage is inflicted if the creature. sLruck successfully saves vs. spell. The caster receives one bolt for every five experience levels (two bolts at 10th level, three at 15th level, etc.). Bolts must be used on creatures within 20 yards of each other and in front of the wizard.\n\nThe material components for this spell are a drop of oil and a small piece of flint.\n\nNotes: Common spell (PHJJ).
+
+Name| Flann's Finery 
+(Abjuration) 
+Level: 2 
+Range: Touch 
+Components: V, S 
+Casting Time: 1 rd. 
+Duration: 1 day/level 
+Saving Throw: None 
+Area of Effect: Creature touched 
+Description| Using Fiann s finery, a wizard ( or other spell recipient) can resist din, blood, sweat, and other undesirable substances that otherwise would soil their persons or clothing. Although this spell in no way protects an individual from damage due to acid. disease, etc., it keeps him looking good. 1L preserves metal items from rust and tarnish and keeps clothing from tearing or wearing thin. The somewhat fussy wizard Fiann developed Fiann's finery 10 keep an appearance of nobility even while fighting or traveling. Fiann always included this as a mandatory part of a student's spellbook to maintain standards of decorum.\n\nNotes: Uncommon or rare spell; originally from the MYSTARA setting.
+
+Name| Fleet Feet
+(AJteratlon) 
+RevenJblc 
+Level: 3 
+Range: Touch Components: V. S, M Casting Time: 3
+Duration: 1 day/5 levels
+Area of Effect 1 individual
+Saving Throw: Neg.
+Description| This spell allows an individual to move more quickly. The one affected can take very large strides, as if his feet and legs weighed far less then they actually do. For purposes of cross country movement. an affected individual con double his normal movement rate (and can force march beyond that, though still subject to the forced march effects). The individual's movement rate is doubled in combat situations as well, but his balance and inertia make it difficult to maneuver. If moving greater than his normal movement rate and attempting to turn in any way, such as to round a comer or to avoid an obstacle, the individual must make a successful Dexterity check to avoid falling (failure ends his movement for the round and makes him prone).\n\nThe material component for this spell is a feather from a flightless bird, such as an erdlu.\n\nThe reverse of this spell, stone Jeer, makes the affected individual's legs feel as heavy as rock, slowing bis movement to half. A saving throw negates this effect. The individual's balance is unaffected.\n\nThe material component for the reverse is a piece of mekillot hide.\n\nNotes: Common on Athas (the DARK SUN setting); virtually unknown elsewhere.
 
