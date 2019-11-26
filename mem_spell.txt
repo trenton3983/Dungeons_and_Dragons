@@ -8,7 +8,7 @@ Casting Time| 1 rd.
 Duration| 4 hrs.+ ½ hr./level 
 Area of Effect| Up to 20-ft. cube 
 Saving Throw| None 
-Description| When an alarm spell is cast, the wizard causes a selected area to react to the presence of any creature larger than a normal rat-anything larger than about ½ cubic foot in volume or more than about 3 pounds in weight. The area of effect can be a portal, a section of floor, stairs, etc. As soon as any creature enters the warded area, touches it, or otherwise contacts it without speaking a password established by the caster, the alarm spell lets out a loud ringing that can be heard clearly within a 60- foot radius. (Reduce the radius by IO feet for each interposing door and by 20 feet for each substantial interposing wall.) The sound lasts for one round and then ceases. Ethereal or astrally projected creatures do not trigger an alarm, but flying or levitating creatures, invisible creatures, or non­corporeal or gaseous creatures do. The caster can dismiss the alarm with a single word.\n\nThe material components of this spell are a tiny bell and a piece of very fine silver wire.\n\nNotes: Common spell (PHB).
+Description| When an alarm spell is cast, the wizard causes a selected area to react to the presence of any creature larger than a normal rat-anything larger than about ½ cubic foot in volume or more than about 3 pounds in weight. The area of effect can be a portal, a section of floor, stairs, etc. As soon as any creature enters the warded area, touches it, or otherwise contacts it without speaking a password established by the caster, the alarm spell lets out a loud ringing that can be heard clearly within a 60- foot radius. (Reduce the radius by 10 feet for each interposing door and by 20 feet for each substantial interposing wall.) The sound lasts for one round and then ceases. Ethereal or astrally projected creatures do not trigger an alarm, but flying or levitating creatures, invisible creatures, or non­corporeal or gaseous creatures do. The caster can dismiss the alarm with a single word.\n\nThe material components of this spell are a tiny bell and a piece of very fine silver wire.\n\nNotes: Common spell (PHB).
 
 Name| Alternate Reality
 Class| ["Wizard"]
@@ -23,248 +23,261 @@ Saving Throw| None
 Description| With this spell, the caster creates a small variation in probabilities. This variation lasts only a moment, but creates alternate results for one recent event. When the spell is cast, any one event attempted by the recipient during the previous round is recalculated, essentially allowing ( or forcing) the creature to make new die rolls.\nOnly events that begin and end in a single round can be affected. Only one die roll can be rerolled. If the creature touched is a willing recipient, the player can choose which roll (the original or the new roll) affects him, more than likely picking the most successful. If the creature is unwilling, he must redo the action. The second result, whatever its outcome, cannot be changed.\nTypical uses of this spell include allowing a fighter to re-roll an attack, forcing an opponent to re-roll a saving throw, or allowing a wizard to re-roll the damage caused by a fireball.\nThe material component is a small, unmarked die.\nNotes: Restricted to wild mages; uncommon (ToM).
 
 Name| Abi-Dalzim's Horrid Wilting 
-(Alteration, Necromancy, Water) 
-Level: 8 
-Range: 20 yds./level 
-Components: V, S, M 
-Casting Time: 8 
-Duration: Instantaneous 
-Area of Effect: 30-ft. cube 
-Saving Throw: ½ 
-Description| This spell evaporates moisture from the bodies of every living creature within the area of effect, inflicting 1 d8 points of damage per level of the caster, 10 a maximum of I 6d8. Affected creatures are allowed a saving throw vs. spell for half dam­age. This spell is especially devastating to water elementals and plant creatures, who receive a penalty of -2 to their saving throws. 
+Class| ["Wizard"]
+School| ["Alteration", "Necromancy", "Water"]
+Level| 8 
+Range| 20 yds./level 
+Components| ["V", "S", "M"] 
+Casting Time| 8 
+Duration| Instantaneous 
+Area of Effect| 30-ft. cube 
+Saving Throw| ½ 
+Description| This spell evaporates moisture from the bodies of every living creature within the area of effect, inflicting 1d8 points of damage per level of the caster, to a maximum of 16d8. Affected creatures are allowed a saving throw vs. spell for half damage. This spell is especially devastating to water elementals and plant creatures, who receive a penalty of -2 to their saving throws. 
 The material component is a bit of sponge. Notes: Uncommon or rare (ToM). 
 
-Name| Absorption 
-(Abjuration, Evocation) 
-Level: 9 
-Range: 0 
-Components: V, S, M 
-Casting Time: 9 
-Duration: 5 rds./level 
-Area of Effect: The caster 
-Saving Throw: None 
+Name| Absorption
+Class| ["Wizard"]
+School| ["Abjuration", "Evocation"] 
+Level| 9 
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 9 
+Duration| 5 rds./level 
+Area of Effect| The caster 
+Saving Throw| None 
 Description| This spell enables the caster to absorb and redirect magical energy, up to ten spell levels. The incoming spell is nullified and its energy is stored for later use. Any type of spell can be absorbed, except for the following: area spells not targeted directly at the caster, touch attack spells, and the effects of magical devices. Priest spells, any spell scroll, and any spell-like ability use can be absorbed. 
-At any time during the spell 's duration, the caster can expend stored energy to cast a currently memorized spell, without wiping it from his memory. This has a casting time of 1. For example, a wizard absorbing a feeblemind spell (5th level) releases a lightning bolt (3rd level), has two levels of energy available, and can absorb five more levels of spell energy before the capac­ity of the spell is completely used. Unused energy and storage capacity are lost when the spell ends. 
+At any time during the spell 's duration, the caster can expend stored energy to cast a currently memorized spell, without wiping it from his memory. This has a casting time of 1. For example, a wizard absorbing a feeblemind spell (5th level) releases a lightning bolt (3rd level), has two levels of energy available, and can absorb five more levels of spell energy before the capacity of the spell is completely used. Unused energy and storage capacity are lost when the spell ends. 
 If an incoming spell exceeds the remaining capacity of the absorption spell, the caster gains a +2 bonus to his saving throw for each incoming spell level that is absorbed, even against spells that normally allow no saving throw. A roll of 1 always fails, regardless of the total of the modifiers. 
-The caster can voluntarily suppress the absorption for a round in order to receive beneficial spells, but cannot absorb hostile spells in that round.\n\nThe spell requires an amulet worth at least 1,000 gp, which must be kept on the caster's per­son for duration of the spell. The amulet glows when spell energy is stored. It can be reused. 
+The caster can voluntarily suppress the absorption for a round in order to receive beneficial spells, but cannot absorb hostile spells in that round.\n\nThe spell requires an amulet worth at least 1,000 gp, which must be kept on the caster's person for duration of the spell. The amulet glows when spell energy is stored. It can be reused. 
 Notes: Very rare. (Updated from POLYHEDRON Newszine.)
 
 Name| Acid Bolt
-(Evocation) 
-(Alchemy) 
-Level: 4 
-Range: 60 yds. + IO yds./level 
-Components: V, S 
-Casting Time: 4 
-Duration: Instantaneous 
-Area of Effect: I or 2 creatures 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Evocation", "Alchemy"] 
+Level| 4 
+Range| 60 yds. + 10 yds./level 
+Components| ["V", "S"] 
+Casting Time| 4 
+Duration| Instantaneous 
+Area of Effect| I or 2 creatures 
+Saving Throw| None 
 Description| This spell summons two teardrop-shaped bolts of flesh-corrosive force that dart forth from the caster's hands to strike their targets unerringly. Each target must be a single creature that the caster can see and distinguish from others during casting. Once burled, a bolt wiU follow a fleeing target out of the caster's view and dodge around obstacles and other creatures, even those who move to intercept it. The caster cannot aim the bolts at specific body parts, areas, or carried items. 
 Any being struck by an acid bolt suffers 4d4 points of damage. Skeletal or non-corporeal undead and nonliving objects (even wood and cloth) are unaffected by an acid bolt. 
 Notes: Rare spell. (Updated from DRAGON Magazine.)
 
 Name| Afterclap
-(Alteration, Chronomancy) 
-Level: 8 
-Range: 10 ft./level 
-Components: V, S, M 
-Casting Time: 8 
-Duration: Instantaneous 
-Area of Effect: I creature 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Alteration", "Chronomancy"] 
+Level| 8 
+Range| 10 ft./level 
+Components| ["V", "S", "M"] 
+Casting Time| 8 
+Duration| Instantaneous 
+Area of Effect| 1 creature 
+Saving Throw| None 
 Description| This spell allows the caster to duplicate the damage suffered by a single creature within spell range on the previous round. Damage is precisely duplicated in type and amount-in other words, the same damage rolls, saving throws, ability checks, and so on occur in the same way as in the previous round. The damage may have been caused by any source, not just magical attacks. 
 For example, an evil fighter is struck by two arrows, taking 3 and 4 points of damage, parries a thrust by a ranger with a sword of sharpness, is backstabbed by a thief with weakly poisoned dagger (missing the saving throw vs. poison and taking 15 points of damage), and takes more 11 points of damage after making his saving throw against a finger of death spell, all in the same round that a wizard casts afterclap against him. The next round, the fighter takes another 33 points of damage from the afterclap (3 + 4 + 15 + 11 = 33), in addition to whatever damage his enemies inflict. 
 The material component of an afterclap is a bit of stiff rubber or gum that is pulled until it snaps back. 
 Notes: Very rare in the FORGOTTEN REALMS setting and for cbronomancers; virtually unknown elsewhere.
 
 Name| Agra's Ambush 
-(Abjuration), Mentalism) 
-Level: 2 
-Range: Touch 
-Components: V, S, M 
-Casting Time: 3 
-Duration: 1 turn + l rd./level 
-Area of Effect: Creature touched 
-Saving Throw: Neg. (when cast) ½ (when triggered) 
+Class| ["Wizard"]
+School| ["Abjuration", "Mentalism"] 
+Level| 2 
+Range| Touch 
+Components| ["V", "S", "M"] 
+Casting Time| 3 
+Duration| 1 turn + l rd./level 
+Area of Effect| Creature touched 
+Saving Throw| Neg. (when cast) ½ (when triggered) 
 Description| This spell is used against psionic opponents. When cast, it creates a mental trap in the subject's mind. An unwilling recipient of this spell is allowed a saving throw vs. spell to prevent Agra s ambush from being set in its mind. 
 This trap instantly discharges upon any psionic contact or attack, as well as mind-contacting spells such as ESP and telepathy. The trap causes ld4 hit points damage, plus I point per level of the caster to the initiator of the contact, save vs. spell for half damage. 
 The material component is some roughly ground glass, which must be sprinkled in a circle around the recipient. 
 Notes: Uncommon or rare for mentalists and psionic spellcasters; other wise very rare. (Updated from POLYHEDRONNewszine.)
 
 Name| Airboat 
-(Alteration, Enchantment) 
-(Air) 
-Level: 8 
-Range: 1 mile 
-Components: V, S 
-Casting Time: J rd. 
-Duration: 1 hr./level 
-Area of Effect: 1 cloud 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Alteration", "Enchantment", "Air"]
+Level| 8 
+Range| 1 mile 
+Components| ["V", "S"] 
+Casting Time| J rd. 
+Duration| 1 hr./level 
+Area of Effect| 1 cloud 
+Saving Throw| None 
 Description| This spell must be cast under a cloudy sky. Toe caster points at a cloud, which immediately descends toward him. As it comes closer, the cloud changes shape, becoming any sort of vessel imagined by the wizard (a dragon-shaped galley, a one-man dinghy, etc.). 
 Although the airboat is made of cloud, it feels solid and can support the weight of the caster plus one passenger per level of the wizard. It can move at a rate of21 (MC: D). 
-The caster maintains total telepathic control over the airboat's speed and direction. While con­trolling the vessel, the wizard is able to perform other actions but cannot cast other spells. 
+The caster maintains total telepathic control over the airboat's speed and direction. While controlling the vessel, the wizard is able to perform other actions but cannot cast other spells. 
 Notes: Common for Air mages; uncommon for others (ToM). 
 
-Name| Airbolt 
-(Alteration) 
-(Air, Force, Water) 
-Level: 3 
-Range: 20 yds. (60 yds. underwater) Components: V 
-Casting Time: 3 
-Duration: Instantaneous 
-Area of Effect: I creature or object 
-Saving Throw: None 
-Description| Using only verbal components, this spell focuses the air around the caster into a powerful invisible bolt; a concentrated blast of air roughly 3 inches in diameter. Airbolt is particularly effec­tive underwater. 
-Only one creature or object can be the target of this spell. Damage for this spell underwater is Jd6 per level, to a maximum of 10d6 at 10th level. A saving throw vs. spell is allowed for half damage. The spellcaster blows a puff of air as this spell is cast. 
+Name| Airbolt
+Class| ["Wizard"]
+School| ["Alteration", "Air", "Force", "Water"] 
+Level| 3 
+Range| 20 yds. (60 yds. underwater)
+Components| ["V"] 
+Casting Time| 3 
+Duration| Instantaneous 
+Area of Effect| 1 creature or object 
+Saving Throw| None 
+Description| Using only verbal components, this spell focuses the air around the caster into a powerful invisible bolt; a concentrated blast of air roughly 3 inches in diameter. Airbolt is particularly effective underwater. 
+Only one creature or object can be the target of this spell. Damage for this spell underwater is 1d6 per level, to a maximum of 10d6 at 10th level. A saving throw vs. spell is allowed for half damage. The spellcaster blows a puff of air as this spell is cast. 
 1n the air, this bolt inflicts only half the number of dice damage as it does underwater (round up), and it will not not work in a vacuum at all. 
 Notes: Uncommon for Air and Water mages; rare for others. (Updated from DRAGON Magazine.)
 
-Name| Airy Water 
-(Alteration) 
-(Air, Water) 
-Level: 5 
-Range: 0
-Components: V, S, M 
-Casting Time: 5 
-Duration: 1 tum/level 
-Area of Effect: 10-ft. radius sphere or 
+Name| Airy Water
+Class| ["Wizard"]
+School| ["Alteration", "Air", "Water"] 
+Level| 5 
+Range| 0
+Components| ["V", "S", "M"] 
+Casting Time| 5 
+Duration| 1 tum/level 
+Area of Effect| 10-ft. radius sphere or 
 15-ft. radius hemisphere
-Saving Throw: None 
-Description| The airy water spell turns normal liquid, such as water or water-based solutions, into a less dense, breathable substance. Thus, if the wizard wanted to enter an underwater place, he would step into the water, cast the spell, and sink downward in a globe of bubbling water. He and any companions in the spell's area of effect can move freely and breathe just as if the bubbling water were air. The globe is centered on and moves with the caster. Water­breathing creatures avoid a sphere (or hemisphere) of airy water, although intelligent ones can enter it if they are able to move by means other than swim­ming. No water-breathers can breathe in an area affected by this spell. There is only one word that needs to be spoken to actuate the magic; thus, it can be cast under water. The spell does not filter or remove solid particles of matter. 
+Saving Throw| None 
+Description| The airy water spell turns normal liquid, such as water or water-based solutions, into a less dense, breathable substance. Thus, if the wizard wanted to enter an underwater place, he would step into the water, cast the spell, and sink downward in a globe of bubbling water. He and any companions in the spell's area of effect can move freely and breathe just as if the bubbling water were air. The globe is centered on and moves with the caster. Water-breathing creatures avoid a sphere (or hemisphere) of airy water, although intelligent ones can enter it if they are able to move by means other than swimming. No water-breathers can breathe in an area affected by this spell. There is only one word that needs to be spoken to actuate the magic; thus, it can be cast under water. The spell does not filter or remove solid particles of matter. 
 The material component of the spell is a small handful of alkaline or bromine salts.
 Notes: Common spell (PHB).
 
-Name| Alamir's Fundamental Breakdown 
-{Divination) 
-(Air, Earth, Fire, Water, Alchemy) 
-Level: 3 
-Range: Touch 
-Components: V, S, M 
-Casting Time: 1 rd. 
-Duration: Instantaneous 
-Area of Effect: 1 object or compound 
-Saving Throw: Special 
-Description| By casting this spell, the wizard learns what ingredients and formulas were used to create a chemical mixture or magical item. The information instantly appears in the caster's mind but may be lost if the wizard cannot comprehend it. The caster must roll an Intelligence check; if successful, the wizard understands the formula and retains it in his memory. If the roll is failed, the caster can­not comprehend what he has learned and the information is immediately forgotten. if the spell is cast a second time on the same substance, the spell automatically fails unless the wizard has advanced to the next experience level. The caster's level determines the type of information gleaned:
-• 5th Level: The type and quantity of ingredients and the preparation process required to produce a nonmagical mixture are learned. For example, the wizard could learn bow to produce Greek fire or gunpowder from a sample, or could learn the recipe for something simple, like chocolate cake.
-• 9th level: The wizard can learn the proper ingredients and formula for making a magical liquid (potion, scroll ink, etc.).
-• 14th level: Toe caster can learn the formula for creating any type of magical object, excluding unique items and objects of extreme power (artifacts and relics).
-In all cases, simply knowing the proper formula does not mean the wizard can successfully create the item or material. The construction of alchemical mixtures and magical items is a time­consuming and expensive undertaking. 
-This spell has detrimental effects on the magi­cal item analyzed. Single-use items (potions, oils, etc.) are automatically destroyed; the spell consumes the item in the process of analyzing it. Reusable magical items must make a saving throw vs. disintegration. If the saving throw is failed, Alamir s fundamental breakdown releases the magic of the item in an explosive blast, rendering it permanently nonmagical. The caster suffers 4d8 points of damage from the explosion. 
+Name| Alamir's Fundamental Breakdown
+Class| ["Wizard"]
+School| ["Divination", "Air", "Earth", "Fire", "Water", "Alchemy"] 
+Level| 3 
+Range| Touch 
+Components| ["V", "S", "M"] 
+Casting Time| 1 rd. 
+Duration| Instantaneous 
+Area of Effect| 1 object or compound 
+Saving Throw| Special 
+Description| By casting this spell, the wizard learns what ingredients and formulas were used to create a chemical mixture or magical item. The information instantly appears in the caster's mind but may be lost if the wizard cannot comprehend it. The caster must roll an Intelligence check; if successful, the wizard understands the formula and retains it in his memory. If the roll is failed, the caster cannot comprehend what he has learned and the information is immediately forgotten. if the spell is cast a second time on the same substance, the spell automatically fails unless the wizard has advanced to the next experience level. The caster's level determines the type of information gleaned:
+• 5th Level| The type and quantity of ingredients and the preparation process required to produce a nonmagical mixture are learned. For example, the wizard could learn bow to produce Greek fire or gunpowder from a sample, or could learn the recipe for something simple, like chocolate cake.
+• 9th Level| The wizard can learn the proper ingredients and formula for making a magical liquid (potion, scroll ink, etc.).
+• 14th Level| Toe caster can learn the formula for creating any type of magical object, excluding unique items and objects of extreme power (artifacts and relics).
+In all cases, simply knowing the proper formula does not mean the wizard can successfully create the item or material. The construction of alchemical mixtures and magical items is a time-consuming and expensive undertaking. 
+This spell has detrimental effects on the magical item analyzed. Single-use items (potions, oils, etc.) are automatically destroyed; the spell consumes the item in the process of analyzing it. Reusable magical items must make a saving throw vs. disintegration. If the saving throw is failed, Alamir s fundamental breakdown releases the magic of the item in an explosive blast, rendering it permanently nonmagical. The caster suffers 4d8 points of damage from the explosion. 
 The material component is a wand cut from a 100-year-old oak tree. The wand is used to touch the item in question, and vanishes in a puff of smoke when the spell is complete.
 Notes: Uncommon or rare spell (ToM).
 
 Name| Algarth's Embattlement 
-(Alteration) 
-Level: 9
-Range: 0 
-Components: V, S, M 
-Casting Time: 9 
-Duration: 1 day/level 
-Area of Effect: The caster 
-Saving Throw: None 
-Description| This infamous spell is sometimes called the box of spells. It is one of very few known magics that allow a caster to unleash more than one spell in a round. After the spell is cast, the wizard can cast Lip to six additional spells ( each one in the usual fashion, requiring normal material components and the like) and store them, unreleased, as part of Algarth's embattlement. Stored spells are still memorized and prevent the caster from memorizing other spells in their place. For each spell stored, the caster loses 1 d4 hit points that cannot be regained until the stored spell is cast. (At that time, the damage can be restored by healing or rest; the hit points do not return automatically.) 
-Spells of any level that the wizard can cast can be stored. They can be unleashed by silent act of will at any time, at a maximum speed of two spells per round. No other being can provide spells for the e111ba1tlement to store. Note that the caster must be conscious, and for certain spells must be able to see a target, but need not speak, move, or employ mate­rial components to enact stored spells. 
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 9
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 9 
+Duration| 1 day/level 
+Area of Effect| The caster 
+Saving Throw| None 
+Description| This infamous spell is sometimes called the box of spells. It is one of very few known magics that allow a caster to unleash more than one spell in a round. After the spell is cast, the wizard can cast Lip to six additional spells ( each one in the usual fashion, requiring normal material components and the like) and store them, unreleased, as part of Algarth's embattlement. Stored spells are still memorized and prevent the caster from memorizing other spells in their place. For each spell stored, the caster loses 1d4 hit points that cannot be regained until the stored spell is cast. (At that time, the damage can be restored by healing or rest; the hit points do not return automatically.) 
+Spells of any level that the wizard can cast can be stored. They can be unleashed by silent act of will at any time, at a maximum speed of two spells per round. No other being can provide spells for the e111ba1tlement to store. Note that the caster must be conscious, and for certain spells must be able to see a target, but need not speak, move, or employ material components to enact stored spells. 
 The spells stored in an embattlement cannot be released or ruined by any magic short of Mordenkainen's disjunction. They persist even beyond the death of the caster, who may later rise as an undead able to unleash them! If the caster outlives the spell duration without casting all of the spells, however, unused ones are lost. 
 The material components of Algarth's embattlement are four drops of water and a gem of not less than 4,000 gp value. 
 Notes: Rare or very rare in the FORGOTTEN REALMS setting; virtually unknown elsewhere. 
 
-Name| Alter Reality 
-(Illusion/Phantasm) 
-Level: 7 
-Range: Unlimited 
-Components: Special 
-Casting Time: Special 
-Duration: Special 
-Area of Effect: Special 
-Saving Throw: Special 
+Name| Alter Reality
+Class| ["Wizard"]
+School| ["Illusion", "Phantasm"] 
+Level| 7 
+Range| Unlimited 
+Components| Special 
+Casting Time| Special 
+Duration| Special 
+Area of Effect| Special 
+Saving Throw| Special 
 Description| The alter reality spell is potent but difficult to use well. It will fulfill literally, but only partially or for a limited duration, a condition visualized by the spellcaster. To effect the magic, the caster must depict the alteration of reality to the desired state through the casting of a phantasmal force spell, as well as verbalizing the desired state, before the spell goes into action. 
-The actuality of the past, present, or future might be altered in some limited manner (but possibly only for the wizard unless the spell is most carefully constructed). The conjuration will not substantially change major realities, nor will it bring wealth or experience merely by asking. The spell can, for example, restore some hit points lost by the wizard (or all hit points for a limited duration). It can reduce opponent hit probabilities or damage, increase duration of some magical effect, cause a creature to be favor­ably disposed to the spellcaster, mimic a spell of 7th level or less, and so on. Greedy desires usu­ally end in disaster for the caster. The alter reality spell nearly always can be used in place of a limited wish spell, if the caster is able to structure it properly. 
+The actuality of the past, present, or future might be altered in some limited manner (but possibly only for the wizard, unless the spell is most carefully constructed). The conjuration will not substantially change major realities, nor will it bring wealth or experience merely by asking. The spell can, for example, restore some hit points lost by the wizard (or all hit points for a limited duration). It can reduce opponent hit probabilities or damage, increase duration of some magical effect, cause a creature to be favorably disposed to the spellcaster, mimic a spell of 7th level or less, and so on. Greedy desires usually end in disaster for the caster. The alter reality spell nearly always can be used in place of a limited wish spell, if the caster is able to structure it properly. 
 Casting time is based on the time spent preparing the wording for the spell and enacting the phantasmal force. Normally the casting time is one round (most of it being taken up by deciding what to show).
 Casting this spell ages the caster one year per 100 years of regular life span. 
 Notes: Restricted to illusionists and conjurers; uncommon.
 
-Name| Alustriel's Fang 
-(Alteration) 
+Name| Alustriel's Fang
+Class| ["Wizard"]
+School| ["Alteration"] 
 Level| 2 
 Range| 60 ft. 
-Components| V, S, M 
+Components| ["V", "S", "M"]
 Casting Time| 2 
 Duration| 2 rds. 
 Area of Effect| 1 weapon 
 Saving Throw| None 
 Description| This spell allows the caster to fire a dagger, dart, or other piercing weapon shorter than the forearm, in a straight line from hand to target, at a foe within 60 feet. The caster must be proficient in the use of the weapon.\n\nThe weapon makes one attack each round, as if wielded by a wizard two levels higher than the caster, does+ I more than its normal damage per hit, and then returns to the caster's hand, unless prevented from doing so, flying at rate of 12 (MC: A).\n\nThe enchanted weapon is a + I magical weapon for purposes of what it can hit, and it is not harmed by the spell in any way. To prevent the weapon's return. a target must have been struck by the weapon, must have made a successful Dexterity check to grasp the weapon. and must have made a successful Strength check to retain hold, breaking the spell. If either check fails, the weapon slips free and returns to the caster.\n\nThe weapon awaits the caster having a free hand on its return, hanging motionless in midair as near the caster as possible if the caster's hands are both busy. In other words, it does not interrupt climbing or spell casting. If one of the caster's hands docs not become free, the weapon simply falls to the ground when the spell expires.\n\nThe material components of this spell are the weapon and a pinch of iron filings.\n\nNotes: Restricted to the Seven Sisters, their apprentices, and select Harpers; uncommon or rare.
 
-Name| Alustriel's Improved Mantle 
-{Abjuration) 
-Level: 7 
-Range: 0
-Components: V S, M 
-Casting Time: 7 
-Duration: 1 turn 
-Area of Effect: 1 creature 
-Saving Throw: None 
-Description| This spell protects the caster or a single willing recipient touched during the casting by enveloping the chosen being in a close-fitting magical defensive field. Alustriel's improved mantle is normally invisible, but can be made by the desire of the wearer to shimmer, glow faintly (in any hue and changing in response to the wearer's will), or shine brightly. When it shines brightly, it is never blinding, but it is bright enough to read by or to allow one to see IO feet or so in all directions in nonmagical darkness. 
+Name| Alustriel's Improved Mantle
+Class| ["Wizard"]
+School| ["Abjuration"] 
+Level| 7 
+Range| 0
+Components| ["V", "S", "M"] 
+Casting Time| 7 
+Duration| 1 turn 
+Area of Effect| 1 creature 
+Saving Throw| None 
+Description| This spell protects the caster or a single willing recipient touched during the casting by enveloping the chosen being in a close-fitting magical defensive field. Alustriel's improved mantle is normally invisible, but can be made by the desire of the wearer to shimmer, glow faintly (in any hue and changing in response to the wearer's will), or shine brightly. When it shines brightly, it is never blinding, but it is bright enough to read by or to allow one to see 10 feet or so in all directions in nonmagical darkness. 
 The mantle wards off all physical weapons of + 1 enchantment or less. It also prevents the functioning of all spells or equivalent magical item effects of 4th level or less within its confines. A caster protected by an Alustriel's improved mantle could stand in the heart of a.fireball that burst and crisped beings standing all around her, and escape with herself and all she wore and carried completely unharmed. The wearer of such a mantle (which, despite its name, is a magical field, not a garment) also receives a +2 bonus on all saving throws.
-If any Alustriel's improved mantle ever comes into direct contact with another improved mantle, or with an Alustriel's mantle (the lesser spell related to this one), the result is a brief writhing chaos of swirling magic that wracks any protected beings involved with horrible pain, rendering them helpless for ld2 rounds, and deals them each 4d IO points of damage as the mantles collapse. 
+If any Alustriel's improved mantle ever comes into direct contact with another improved mantle, or with an Alustriel's mantle (the lesser spell related to this one), the result is a brief writhing chaos of swirling magic that wracks any protected beings involved with horrible pain, rendering them helpless for ld2 rounds, and deals them each 4d10 points of damage as the mantles collapse. 
 The material components of an Alustriel's improved mantle are a gem of any sort worth 50 gp or more and a tiny glass vial that the caster has breathed into and then stoppered at least a day (24 hours) before casting the spell. 
 Notes: Restricted to the Seven Sisters, their apprentices, and select Harpers; rare or very rare. 
 
-Name| Alustriel's Mantle 
-(Abjuration) 
-Level: 4 
-Range:O 
-Components: V, S, M 
-Casting Time: 4 
-Duration: 6 rds. 
-Area of Effect: 1 creature 
-Saving Throw: None 
-Description| This spell protects the caster, or a single spell recipient touched during the casting, by enveloping the chosen being in a close-fitting magical defensive field. An Alustriel's mantle is normally invisible, but can be made by the desire of the wearer to shimmer, glow faintly (in any hue and changing in response to the wearer's will), or shine brightly. When it shines brightly, it is never blinding, but it is bright enough to read by or to allow one to see IO feet or so in all directions in dark subterranean surroundings. 
+Name| Alustriel's Mantle
+Class| ["Wizard"]
+School| ["Abjuration"] 
+Level| 4 
+Range| 0
+Components| ["V", "S", "M"] 
+Casting Time| 4 
+Duration| 6 rds. 
+Area of Effect| 1 creature 
+Saving Throw| None 
+Description| This spell protects the caster, or a single spell recipient touched during the casting, by enveloping the chosen being in a close-fitting magical defensive field. An Alustriel's mantle is normally invisible, but can be made by the desire of the wearer to shimmer, glow faintly (in any hue and changing in response to the wearer's will), or shine brightly. When it shines brightly, it is never blinding, but it is bright enough to read by or to allow one to see 10 feet or so in all directions in dark subterranean surroundings. 
 The mantle wards off all physical weapons except for those that bear a magical dweomer of any sort. It prevents the functioning of all 1st- or 2nd-level spells or equivalent magical item effects within its confines. A caster protected by 
 an Alustriel's mantle could stand in the path of a flaming sphere that rolled over her, and it would 
 do her no damage while still having normal effects on other beings in its range. She could also walk through a hail of nonmagical arrows or ignore nonmagical dagger attacks. 
-If two Alustriel's mantles ever come into con­tact, the result is a brief writhing chaos of swirling magic that wracks any protected beings involved with horrible pain, rendering them helpless for I d2 rounds, and deals them each 4d8 points of damage as the mantles collapse. 
+If two Alustriel's mantles ever come into contact, the result is a brief writhing chaos of swirling magic that wracks any protected beings involved with horrible pain, rendering them helpless for I d2 rounds, and deals them each 4d8 points of damage as the mantles collapse. 
 The material component of an Alustriel's mantle is a tiny glass vial that the caster has breathed into and then stoppered at least a day (24 hours) before spellcasting. 
 Notes: Restricted to the Seven Sisters, their apprentices, and select Harpers; uncommon or rare. 
 
-Name| Antimagic Aura - Elf 
-(Abjuration) 
-Level: 6 
-Range: 10 yds./level 
-Components: V, S 
-Casting Time: 3 
-Duration: 1 tum/level 
-Area of Effect: I individual 
-Saving Throw: Neg. 
+Name| Antimagic Aura - Elf
+Class| ["Wizard"]
+School| ["Abjuration"] 
+Level| 6 
+Range| 10 yds./level 
+Components| ["V", "S"] 
+Casting Time| 3 
+Duration| 1 tum/level 
+Area of Effect| I individual 
+Saving Throw| Neg. 
 Description| This spell acts in somewhat the same manner as the antimagic shell, but is intended for use against an enemy spellcaster or enchanted creature. When cast, the spell creates a glittering aura of light around the target, conforming exactly to the target's body. 
 The subject of this spell can cast no magic, nor can an affected enchanted creature attack or use spell-like abilities for the spell's duration. Enchanted weapons cannot use bonuses or special powers, functioning as ordinary weapons. As with the antimagic shell, this spell is ineffective against extra-planar creatures on their borne plane. Unlike antimagic shell, the aura can be eliminated by a successful dispel magic spell from an unaffected caster. 
 Notes: Common for elves of Evermeet; uncommon for other elves; very rare for others. 
 
 Name| Antimagic Shell 
-(Abjuration) 
-Level: 6 
-Range: 0 
-Components: V, S 
-Casting Time: I 
-Duration: 1 tum/level 
-Area of Effect: 1 ft./level diameter 
-Saving Throw: None 
-Description| By means of this spell, the wizard surrounds himself with an invisible barrier that moves with him. The space within this barrier is totally impervious to all magic and magical spell effects, thus preventing the passage of spells or their effects. Likewise, it prevents the functioning of any magi­cal items or spells within its confines. The area is also impervious to breath weapons, gaze or voice attacks, and similar special attack forms. 
-The antimagic shell also hedges out charmed, summoned, or conjured creatures. It cannot, how­ever, be forced against any creature that it would keep at bay; any attempt to do so creates a discernible pressure against the barrier, and continued pressure will break the spell. Normal creatures (a normally encountered troll rather than a conjured one, for instance) can enter the area, as can normal missiles. Furthermore, while a magical sword does not function magically within the area, it is still a sword. 
-Note that creatures on their home plane are normal creatures there. Thus, on the Elemental Plane of Fire, a randomJy encountered fire elemental can­not be kept at bay by this spell. Artifacts, relics, and creatures of demigod or higher status are unaffected by mortal magic such as this. 
-The spell does not destroy or dispel existing enchantments. nor will it affect magical creatures, constructs, or undead beyond possibly sup­pressing some of their abilities. It will not prevent touch-delivered special attack forms such as a lich's paralyzing touch. Holy water is not magical and is fully effective within the shell.
-Should the caster be larger than the area enclosed by the barrier, parts of his person may be considered exposed, at the DM 's option. A dis­pel magic spell does not remove the spell; the caster can end it upon command.
+Class| ["Wizard"]
+School| ["Abjuration"] 
+Level| 6 
+Range| 0 
+Components| ["V", "S"] 
+Casting Time| 1
+Duration| 1 turn/level 
+Area of Effect| 1 ft./level diameter 
+Saving Throw| None 
+Description| By means of this spell, the wizard surrounds himself with an invisible barrier that moves with him. The space within this barrier is totally impervious to all magic and magical spell effects, thus preventing the passage of spells or their effects. Likewise, it prevents the functioning of any magical items or spells within its confines. The area is also impervious to breath weapons, gaze or voice attacks, and similar special attack forms. 
+The antimagic shell also hedges out charmed, summoned, or conjured creatures. It cannot, however, be forced against any creature that it would keep at bay; any attempt to do so creates a discernible pressure against the barrier, and continued pressure will break the spell. Normal creatures (a normally encountered troll rather than a conjured one, for instance) can enter the area, as can normal missiles. Furthermore, while a magical sword does not function magically within the area, it is still a sword. 
+Note that creatures on their home plane are normal creatures there. Thus, on the Elemental Plane of Fire, a randomJy encountered fire elemental cannot be kept at bay by this spell. Artifacts, relics, and creatures of demigod or higher status are unaffected by mortal magic such as this. 
+The spell does not destroy or dispel existing enchantments. nor will it affect magical creatures, constructs, or undead beyond possibly suppressing some of their abilities. It will not prevent touch-delivered special attack forms such as a lich's paralyzing touch. Holy water is not magical and is fully effective within the shell.
+Should the caster be larger than the area enclosed by the barrier, parts of his person may be considered exposed, at the DM 's option. A dispel magic spell does not remove the spell; the caster can end it upon command.
 Notes: Common spell (PHB).
 
 Name| Aryeric's Cloak of Protection 
-(Abjuration) 
-Level: 4 
-Range: 0 
-Components: V, S, M 
-Casting Time: 4 
-Duration: 2 rds./level 
-Area of Effect: 15-ft. radius 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Abjuration"] 
+Level| 4 
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 4 
+Duration| 2 rds./level 
+Area of Effect| 15-ft. radius 
+Saving Throw| None 
 Description| When this spell is used, a translucent image of the caster appears and swells to cover the area of effect. A number of creatures equal to the caster's level plus one within the area of effect can be protected. Those under the cloak save vs. spell as the caster, up 10 the saving throw of a 12th-level wizard (an 8). 
 In addition, the caster can transfer damage incurred by spells from one creature or individual to another protected by the cloak. (For example, if a priest under the cloak is struck by a magic missile, the wizard who cast Aryeric's cloak of protection can instead direct that damage against a fighter who is also protected by the cloak.) This can be done once per round, and damage cannot be split among the protected creatures. If the creature receiving the damage dies, the spell is instantly broken. 
 The cloak moves with the caster, and anyone moving outside the spell's radius is no longer protected, even if he re-enters later. 
@@ -272,14 +285,15 @@ The material component is a strip of cloth soaked in ink.
 Notes: Rare or very rare spell. (Updated from POLYHEDRON Newszine.) 
 
 Name| Black Blade of Disaster - Drow 
-(Conjuration/Summoning, Evocation) 
-Level: 9 
-Range: LO yds./level 
-Components: V, S 
-Casting Time: 9 
-Duration: 1 rd./level 
-Area of Effect: Creates I rift blade 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Conjuration", "Summoning", "Evocation"] 
+Level| 9 
+Range| 10 yds./level 
+Components| ["V", "S"] 
+Casting Time| 9 
+Duration| 1 rd./level 
+Area of Effect| Creates 1 rift blade 
+Saving Throw| None 
 Description| This spell enables the caster to create a black, blade-shaped planar rift, about three feet long. It moves about as the caster wills, providing the caster can see and concentrate on it, movement rate of up to 9. If the caster ceases concentration on the effect at any time, the blade collapses into nothingness at the end of that round. 
 The blade can strike twice per round with the same THAC0 as its caster. A black blade easily carves through inanimate objects that do not bear dweomers. A ship loses ldl2% seaworthiness per blow, and structures take damage per hit equal to that inflicted by a heavy catapult hit. Walls bolstered by spells are treated as magical barriers. A black blade of disaster can cut through prismatic walls and spheres, walls of force, and al I other known magical barriers. It can penetrate an antimagic shell and affect objects inside. 
 Against creatures, a black blade does 2dl2 points of damage per strike. If the caster rolls a natural 20, the blade disintegrates the creature struck; nothing short of a wish will restore an individual destroyed in this fashion. 
@@ -287,14 +301,15 @@ All magical attacks and effects directed at the rift are absorbed. Anyone trying
 Notes: Restricted to drow; very rare.
 
 Name| Blacklight 
-(Alteration) 
-Level: 3 
-Range: 10 yds./level 
-Components: V, S, M 
-Casting Time: 3 
-Duration: l rd./level 
-Area of Effect: 20-ft. radius globe 
-Saving Throw: Special 
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 3 
+Range| 10 yds./level 
+Components| ["V", "S", "M"] 
+Casting Time| 3 
+Duration| l rd./level 
+Area of Effect| 20-ft. radius globe 
+Saving Throw| Special 
 Description| Upon casting this spell, the wizard creates a stationary, temporary area of total darkness. The darkness is impenetrable to normal vision and infravision, but the caster can see and move normally within the blacklit area. The caster can attack and cast spells normally within the limits of his blacklight. Each round, every other creature in the blacklit area is allowed saving throw vs. spell at -3. Those who succeed can see as the wizard does for that round, while those who fail are wrapped in total darkness. Those outside the sphere cannot see into it. 
 Normal and magical lights are doused by the blacklight. The casting of a light, continual light, or dispel magic spell to counter this spell destroys the blacklit area. 
 Creatures within the blacklit area have a -4 penalty to attack rolls and saving throws and have their Armor Class reduced by 4. Those with blindfighting proficiency are penalized by only -2 to their attack rolls and saving throws and have no penalty to Armor Class.
@@ -303,91 +318,101 @@ The material components of this spell are a piece of coal and the dried eyeball 
 Notes: Very rare. Known to be in Se/vars Ineffable Conjurations, Magic, and Phantasms. 
 
 Name| Blackmantle
-(Enchantment, Necromancy) 
-Level: 6 
-Range: 60 yds. 
-Components: V, S, M 
-Casting Time: l rd. 
-Duration: l turn/level 
-Area of Effect: 15-ft. radius 
-Saving Throw: Neg. 
+Class| ["Wizard"]
+School| ["Enchantment", "Necromancy"] 
+Level| 6 
+Range| 60 yds. 
+Components| ["V", "S", "M"] 
+Casting Time| l rd. 
+Duration| l turn/level 
+Area of Effect| 15-ft. radius 
+Saving Throw| Neg. 
 Description| The blackmantle spell creates a shimmering aura around each creature within the area that fails a saving throw vs. spell. The aura negates all healing and regeneration while the spell effect lasts. For instance, a potion of healing has no effect on a creature under the influence of a blackmantle spell, a troll cannot regenerate lost hit points, and cure light wounds spell or staff of curing is useless. 
 If the saving throw is failed, the creature is affected for 1 turn per level of the caster. If the creature is still alive at the end of the spell's duration, any active curative forces will operate normally; for instance, a ring of regeneration resumes its function. Healing magic applied after the spell wears off works normally. 
 The material component for this spell is a small mummified animal, such as a mouse or a toad. 
 Notes: Restricted to necromancers; common. 
 
-Name| Blacksphere 
-(Abjuration, Evocation) 
-Level: 4 
-Range: 10 yds. + 2 yds./level 
-Components: V, S, M 
-Casting Time: 4 
-Duration: 2d4 rds. + 1 rd./level 
-Area of Effect: 10-ft. radius globe 
-Saving Throw: Special 
-Description| Created by a long-since forgotten wizard (though some in Waterdeep insist it was once known as Hilather's blacksphere), the black­sphere spell is a core spell to the development of the rare magical beads of force and their effects are nearly identical. 
-When cast, a black force burst erupts at the caster's desired focal point, causing I d4 points of damage. plus I point per caster level, to all creatures within a 10-foot radius. Creatures failing a saving throw vs. spell are trapped in a I 0-foot radius sphere of force for the duration of the spell; victims cannot escape the sphere by any means less than those u􀀝ed lo destroy a wall of force. A successful saving throw blows the creature out of the encapsulated area, though it still takes damage from the force burst. 
+Name| Blacksphere
+Class| ["Wizard"]
+School| ["Abjuration", "Evocation"] 
+Level| 4 
+Range| 10 yds. + 2 yds./level 
+Components| ["V", "S", "M"] 
+Casting Time| 4 
+Duration| 2d4 rds. + 1 rd./level 
+Area of Effect| 10-ft. radius globe 
+Saving Throw| Special 
+Description| Created by a long-since forgotten wizard (though some in Waterdeep insist it was once known as Hilather's blacksphere), the blacksphere spell is a core spell to the development of the rare magical beads of force and their effects are nearly identical. 
+When cast, a black force burst erupts at the caster's desired focal point, causing I d4 points of damage. plus I point per caster level, to all creatures within a 10-foot radius. Creatures failing a saving throw vs. spell are trapped in a 10-foot radius sphere of force for the duration of the spell; victims cannot escape the sphere by any means less than those u􀀝ed lo destroy a wall of force. A successful saving throw blows the creature out of the encapsulated area, though it still takes damage from the force burst. 
 The material components are a small piece of charcoal and a small piece of onyx.
 Notes: Very rare.
 
 Name| Bladeleap
-(Alteration) 
-Level: 2 
-Range:0 
-Components: V, S, M 
-Casting Time: 2 
-Duration: 1 rd. 
-Area of Effect: I bladed weapon 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 2 
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 2 
+Duration| 1 rd. 
+Area of Effect| I bladed weapon 
+Saving Throw| None 
 Description| This spell allows the caster to make any bladed weapon fly from his hand to strike at a chosen being. The weapon need not be one in which the caster is proficient, and it strikes only once, with a magical bonus of +4 on both attack and damage rolls. 
 The weapon is not consumed in the casting, but does not return to the caster. lt falls to the ground after a single attack. If the caster tries to send it beyond 10 feet per experience level, the weapon falls to the ground at that distance and the spell is wasted. 
 The material components of this spell are a hair from the caster or a thread from the caster's garments. 
 Notes: Uncommon in the FORGOTTEN REALMS setting; virtually unknown elsewhere.
 
-Name| Blindness 
-(Illusion/Phantasm) 
-Level: 2 
-Range: 30 yds. + 10 yds./level 
-Components: V 
-Casting Time: 2 
-Duration: Permanent 
-Area of Effect: 1 creature 
-Saving Throw: Neg. 
+Name| Blindness
+Class| ["Wizard"]
+School| ["Illusion", "Phantasm"] 
+Level| 2 
+Range| 30 yds. + 10 yds./level 
+Components| ["V"] 
+Casting Time| 2 
+Duration| Permanent 
+Area of Effect| 1 creature 
+Saving Throw| Neg. 
 Description| The blindness spell causes the victim to become blind, able to see only a grayness before its eyes. Various cure spells will not remove this effect, and only a dispel magic or the spellcaster can do away with the blindness if the creature fails its initial saving throw vs. spell. A blinded creature suffers a -4 penalty to its attack rolls, and its opponents gain a +4 bonus to their attack rolls.
 Notes: Common spell (PHB).
 
 Name| Blossom
-["Alteration"]
-Level: 3 
-Range: 0 
-Components: V, S, M 
-Casting Time: 1 day 
-Duration: Instantaneous 
-Area of Effect: One 100 yd. square/level 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Alteration"]
+Level| 3 
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 1 day 
+Duration| Instantaneous 
+Area of Effect| One 100 yd. square/level 
+Saving Throw| None 
 Description| This spell requires a full day of concentration on the part of the caster, and must be performed in the center of the area to be affected. The area immediately becomes more verdant and fertile than it was before-if it was dry, the soil grows moist; if it was fetid swampland, the water drains away to reveal fresh loam. 
 The improvement is a matter of degree-a truly terrible drought cannot be overridden by this spell alone, though it might in combination with water summoning. The effects last until the end of the current growing season. 
 The material components of the spell are an ear of grain and a skin of water (about a gallon). 
 Notes: Restricted to practitioners of pluma magic (the Maztica setting); common.
 
-Name| Blur 
-(Illusion/Phantasm) 
-Level: 2 
-Range: 0 
-Components: V, S 
-Casting Time: 2 
-Duration: 3 rds. + 1 rd./Level 
-Area of Effect: The caster 
-Saving Throw: None 
-Description| When a blur spell is cast, the wizard causes the outline of his form to become blurred, shift­ing and wavering. This distortion causes all missile and melee attacks against the caster to be made with -4 penalties on the first attempt and -2 penalties on all successive attacks. It also grants the wizard a + l bonus to his saving throw for any direct magical attack. A detect invisibility spell will not counter this effect, but the 5th-level priest spell true seeing and similar magic will.
+Name| Blur
+Class| ["Wizard"]
+School| ["Illusion", "Phantasm"] 
+Level| 2 
+Range| 0 
+Components| ["V", "S"] 
+Casting Time| 2 
+Duration| 3 rds. + 1 rd./Level 
+Area of Effect| The caster 
+Saving Throw| None 
+Description| When a blur spell is cast, the wizard causes the outline of his form to become blurred, shifting and wavering. This distortion causes all missile and melee attacks against the caster to be made with -4 penalties on the first attempt and -2 penalties on all successive attacks. It also grants the wizard a + l bonus to his saving throw for any direct magical attack. A detect invisibility spell will not counter this effect, but the 5th-level priest spell true seeing and similar magic will.
 Notes: Common spell (PHB).
 
 Name| Body Link
-(Necromancy) 
-Level: 8 
-Range:0 
-Components: V, S, M Casting Time: 1 rd. Duration: Special 
-Area of Effect: The caster Saving Throw: None 
+Class| ["Wizard"]
+School| ["Necromancy"] 
+Level| 8 
+Range| 0 
+Components| ["V", "S", "M"]
+Casting Time| 1 rd.
+Duration| Special 
+Area of Effect| The caster
+Saving Throw| None 
 Description| Using this spell, a wizard can prevent death by decapitation or dismemberment. The spell links the parts of the caster's body, so that separation from the main body will not impair them in any way. For instance, a wizard's head could be cut off yet still talk, or even eat, as if it were still attached to the caster's body; if an arm is cut off, the caster still has muscular control and can even wield weapons. lf the head is cut off, the body falls limp unless the caster rolls a successful Intelligence check. 
 The base duration of the spell is one turn per caster level, during which time the spell passively waits to take effect. Once the head or any limb is cut off, the spell continues for one round per caster level. During this time, if the limb or head is placed back on the trunk, it immediately reattaches. 
 This prevents harm only from decapitation or dismemberment; other damage applies normally. Thus, while the spell is proof against beheading or a vorpal sword, the caster can still be killed by an accurate sword thrust. Also, since the body sometimes falls limp when the caster loses his head, it is a good idea to have a friend nearby to reattach the bead before the duration ends. 
@@ -395,28 +420,31 @@ The material components of the body link spell are a pearl worth at least 500 gp
 Notes: Common in Arabian settings; otherwise very rare. 
 
 Name| Bombard - Old Empire 
-(Evocation) 
-Level: 8 
-Range: 10 yds./level 
-Components: V, S, M 
+Class| ["Wizard"]
+School| ["Evocation"] 
+Level| 8 
+Range| 10 yds./level 
+Components| ["V", "S", "M"] 
 Casting Tin1e: 8 
-Duration: I rd./4 levels (round down) 
-Area of Effect: I creature 
-Saving Throw: ½
-Description| When this spell is cast upon a single creature within spell range, giant stones appear and bombard the target, inflicting I 0d6 points of damage. A successful saving throw vs. spell reduces the damage by half. Each successive round, a new bombardment strikes the target. causing 1 Od6 points of damage. 
+Duration| 1 rd./4 levels (round down) 
+Area of Effect| 1 creature 
+Saving Throw| ½
+Description| When this spell is cast upon a single creature within spell range, giant stones appear and bombard the target, inflicting 10d6 points of damage. A successful saving throw vs. spell reduces the damage by half. Each successive round, a new bombardment strikes the target. causing 10d6 points of damage. 
 This spell lasts one round for every four levels of the caster, rounded down (thus a bombardment from a 16th- through 19th-level wizard lasts four rounds, a bombardment from a 20th- through 23rd-level wizard lasts five rounds, etc.). Each bombardment after the first round strikes before any other actions take place in the round. 
 A creature with magic resistance checks each round-a successful resistance roll ends the speU. This check is made before taking bombardment damage for the round. The spell ends if the target moves out of range. A successful dispel magic spell cast on the target negates the spell. 
 The material component for this spell is a piece of meteoric iron. 
 Notes: Rare spell. As a FORGOTTEN REALMS Old Empire spell, initial exposure requires a mentor or a read Southern magic spell.
 
-Name| Bone Blade 
-(Abjuration, Evocation, Necromancy) 
-Level: 8 
-Range: 0 
-Components: V, S, M 
-Casting Time: 8 
-Duration: 1 rd./level 
-Area of Effect: Creates I blade Saving Throw: None
+Name| Bone Blade
+Class| ["Wizard"]
+School| ["Abjuration", "Evocation", "Necromancy"]
+Level| 8 
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 8 
+Duration| 1 rd./level 
+Area of Effect| Creates I blade
+Saving Throw| None
 Description| This spell creates a temporary but very effective 
 weapon. The blade created can be wielded by any 
 being normally able to wield edged weapons. It is 
@@ -432,23 +460,26 @@ The material components for the bone blade spell are a normal bladed weapon and 
 Notes: Uncommon in savage settings or among wizards allied with Beast Cults; other wise very rare. Known to be in The Book of Shangalar the Black. 
 
 Name| Bones of the Earth
-(Necromancy)
-Level: 6 
-Range: IO yds. 
-Components: V, S, M 
-Casting Time: 3 rds. 
-Duration: 1 d20 + 1O days 
-Area of Effect: Creates 1 or more structures Saving Throw: None 
-Description| Drawing on the life force of the very world, the caster is able to create minor structures out of subterranean materials. When cast, a structure, not more than 20 feet high and IO feet wide at the base per Hit Die of the caster, rises from the ground. The structure is simple and solid, and it can appear m any form the caster desires. It takes two rounds to form, and is always accompanied by extremely loud rumblings. The structure lasts for the duration of the spell, after which it recedes back into the ground. Any inside must exit or be trapped (doomed at the DM's option). 
+Class| ["Wizard"]
+School| ["Necromancy"]
+Level| 6 
+Range| 10 yds. 
+Components| ["V", "S", "M"] 
+Casting Time| 3 rds. 
+Duration| 1d20 + 10 days 
+Area of Effect| Creates 1 or more structures
+Saving Throw| None 
+Description| Drawing on the life force of the very world, the caster is able to create minor structures out of subterranean materials. When cast, a structure, not more than 20 feet high and 10 feet wide at the base per Hit Die of the caster, rises from the ground. The structure is simple and solid, and it can appear m any form the caster desires. It takes two rounds to form, and is always accompanied by extremely loud rumblings. The structure lasts for the duration of the spell, after which it recedes back into the ground. Any inside must exit or be trapped (doomed at the DM's option). 
 Multiple structures can be created, but they are divided among the caster's total available mass. For example, an 11 Hit Die lich could create one 220-foot tall structure, or eleven 20-foot tall structures. 
 The spell can be cast to renew existing structures created by the spell. The rumblings occur at the time of casting, but nothing actually moves. Should the spell be dispelled before its conclusion, its structures take two rounds to sink back into the ground. 
 The material components for this spell are a stone and a weed. 
 Notes: Restricted to necromancers and undead spellcasters; uncommon. 
 
-Name| Breach Defenses 
+Name| Breach Defenses
+Class| ["Wizard"]
 School| ["Alteration"]
 Level| 6 
-Components| V, S, M 
+Components| ["V", "S", "M"] 
 Range| 20 yds. 
 Casting Time| 6 
 Duration| 1 rd./level 
@@ -456,10 +487,11 @@ Area of Effect| l creature
 Saving Throw| Neg. 
 Description| The bane of magical creatures, breach defenses temporarily negates the magical defenses of a creature otherwise immune to normal weapons. Once drained of its magical protection, the creature becomes vulnerable to normal weapons and its Armor Class is worsened by 2 (from AC 4 to AC 6, for example) to a maximum of AC 10. Under this insidious spell's power, wraiths become more tangible, iron golems soften, and lycanthropes must fear more than silver weapons. Breach defenses has no effect on a creature's magic resistance or saving throws, nor does it remove natural or magical immunities to certain forms of attack (for example, a salamander or baatezu's resistance to fire). It simply drains a crearure's magical defenses, whether it normally would suffer dan1age only from +1 or better magical weapons or from +3 or better weapons.\n\nWizards under the effects of a wrai1hform spell also subject to this spell 's effects.\n\nThe material components are one marble-sized ball of iron and one of glass.\n\nNotes: Very rare.
 
-Name| Breath of Bewilderment 
-(Evocation) 
+Name| Breath of Bewilderment
+Class| ["Wizard"]
+School| ["Evocation"] 
 Level| 2 
-Components| V, S 
+Components| ["V", "S"] 
 Range| 30 ft. 
 Casting Time| 2 
 Duration| 1 rd. 
@@ -467,11 +499,12 @@ Area of Effect| 10 x 10 x 30 ft. cloud
 Saving Throw| Neg. 
 Description| This spell allows the caster to breathe out a visible cloud of smoking vapor. It dissipates one round later, but all creatures coming into contact with it must make a saving throw vs. poison or be stunned for the following round, during which time no coherent, deliberate activity is possible. The caster is never affected by his own breath of bewilderment, or, if she has this spell memorized by anyone else's.\n\nNotes: Uncommon in the FORGOTTEN REALMS setting; virtually unknown elsewhere.
 
-Name| Breathblock - Dragon 
-(Evocation) 
+Name| Breathblock - Dragon
+Class| ["Wizard"]
+School| ["Evocation"] 
 Level| 5
 Range| 10 yds./level 
-Components| V 
+Components| ["V"] 
 Casting Time| 2 
 Duration| 1 rd./level 
 Area of Effect| 50 x 50 ft. shield 
@@ -479,324 +512,354 @@ Saving Throw| None
 Description| The breathblock spell brings into being an invisible plane of force 50 feet on a side, that is totally impervious to all draconic breath weapons. The dragon can create the wall anywhere within the maximum range, and can instantaneously move it to any point inside that range. The wall of force can be maneuvered as a shield to protect the dragon, other creatures, or valuable objects (that is, treasure). If positioned directly in front of the mouth of a dragon about to use a breath weapon, the breath weapon either reflects or billows back upon the breathing dragon Unless the dragon is immune to its own attack form-which is usually the case-the dragon suffers half damage from the breath weapon {save vs. breath weapon for one-quarter damage). Any other creatures within 30 feet of the breathing dragon, but on its side of the breathblock, also suffer half damage (save for quarter damage).\n\nThe most spectacular use of this spell was when the legendary gold dragon Autophon defeated the demon Lash and the red dragon the demon used for a mount. As the red dragon prepared to use its breath weapon, Autophon cast breathblock. The red's fire billowed backward around it, causing the dragon no damage but so enraging the demon that it attacked its own mount. This took the pressure off the Autophon long enough for him to slay both demon and red dragon.\n\nNotes: Restricted to dragons; rare.
 
 Name| Breathe
-(Alteration) 
-Level: 1 
-Range: 0 
-Components: V, S, M
-Casting Time: 1
-Duration: 2 rds./level
-Area of Effect: The caster
-Saving Throw: None
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 1 
+Range| 0 
+Components| ["V", "S", "M"]
+Casting Time| 1
+Duration| 2 rds./level
+Area of Effect| The caster
+Saving Throw| None
 Description| This spell enables the creature touched to breathe normally in places where it would normally suffocate (in water, under an avalanche, while buried by a sandstorm, etc.).\n\nThe material component for this spell is a cloth that must be held over the caster's mouth during the casting of the spell.\n\nNotes: Uncommon. As a FORGOTTEN REALMS Old Empire spell, initial exposure requires a mentor or a read Southern magic spell. 
 
-Name| Bubble Breath 
-(Evocation) 
-Level: 4 
-Range: 30 yds. + l O yds./level 
-Components: V, S, M 
-Casting Time: 4 
-Duration: Instantaneous 
-Area of Effect: Creates 1d6 bubbles 
-Saving Throw: Neg. 
+Name| Bubble Breath
+Class| ["Wizard"]
+School| ["Evocation"] 
+Level| 4 
+Range| 30 yds. + 10 yds./level 
+Components| ["V", "S", "M"] 
+Casting Time| 4 
+Duration| Instantaneous 
+Area of Effect| Creates 1d6 bubbles 
+Saving Throw| Neg. 
 Description| A wizard casting this spell breathes forth 1d6 bubbles in the direction of one or more foes. He then must make a successful attack roll for each bubble, or the bubbles pass harmlessly away into the air and pop. If the wizard strikes a creature with a bubble, the creature is instantly coated with a filmy goo. The goo reduces the creature's movement rate by half and causes it to suffer a -2 penalty to all combat rolls and saving throws. The material component is a bit of tree sap that the wizard must swallow.\n\nNotes: Uncommon for invokers; otherwise rare. (Updated from DRAGON Magazine.)
 
 Name| Caddelyn’s Catastrophe
-(Enchantment, Charm)
-Level: 5
-Range: 10 yds./level 
-Components: V, S, M 
-Casting Time: 5
-Duration: 1 rd./level 
-Area of Effect: 1-4 creatures in a 30-ft. cube
-Saving Throw: Special 
+Class| ["Wizard"]
+School| ["Enchantment", "Charm"]
+Level| 5
+Range| 10 yds./level 
+Components| ["V", "S", "M"] 
+Casting Time| 5
+Duration| 1 rd./level 
+Area of Effect| 1-4 creatures in a 30-ft. cube
+Saving Throw| Special 
 Description| This variation of the fumble spell allows the caster to affect up to four creatures if desired, all of whom must be visible to the caster during casting. If four creatures are attacked, their saving throws vs. spell are normal; if three are attacked, all save at -1; if two are attacked, they save at -2; and if only one is attacked, the save is at -3.\n\nCreatures making successful saving throws are slowed for the duration of the spell (as the 3rd­level wizard spell). Creatures who fail immediately drop all held objects, if running or charging they trip or stumble, if balanced on a ledge or climbing they fall, and if spellcasting they ruined any verbal or somatic component, spoiling the spell. Any missile attack by an affected creature misses and any physical attack is at a -2 penalty. Weapons are dropped and any weapon attack becomes a bare fists' attack. Dropped items may well suffer damage (the OM decides which saving throws, if any, apply).\n\nThe material components for this spell are a banana peel or melon rind and a tallow candle or lump of animal fat.\n\nNotes: Rare or very rare.  Known to be in Caddelyn's Workbook.
 
 Name| Calm
-(Enchantment, Charm, Song) 
-Level: 3 
-Range: 0 
-Components: V, S 
-Casting Time: 3 
-Duration: I hr. 
-Area of Effect: 70-ft. radius 
-Saving Throw: Special 
+Class| ["Wizard"]
+School| ["Enchantment", "Charm", "Song"] 
+Level| 3 
+Range| 0 
+Components| ["V", "S"] 
+Casting Time| 3 
+Duration| 1 hr. 
+Area of Effect| 70-ft. radius 
+Saving Throw| Special 
 Description| Insects, animals, demihumans, humanoids, and monsters of 5 Hit Dice or levels-or less-within the spell 's area of effect lose their will to fight when this spell is cast, even if engaged in combat to the death.\n\nThe calm spell affects only those creatures within the area of effect at the instant of casting. The caster can deliberately exclude up to 1 creature per level (presumably, friends or allies) from the spell 's effect. Magic resistance against this spell is lowered by 15%, saving throws vs. spell against it are made at a -2 penalty.\n\nCalmed creatures cannot bring themselves lo attack any other living thing, although they defend themselves normally, and their actions are not restricted otherwise. A creature under this spell 's influence that is attacked gains an immediate saving throw with a +3 bonus to shake off the calming effect. Any calmed creature remains so for one hour (6 full turns) or until attacked, even if it leaves the area.\n\nNotes: Common for witches; otherwise very rare. (Updated from DRAGON Magazine).
 
-Name| Camouflage - Elf 
-(Alteration) 
-Level: 2 
-Range: 0
-Components: S, M 
-Casting Time: 2 
-Duration: 1 turn/level 
-Area of Effect: 20-ft. radius, 1 person/level
-Saving Throw: Neg. 
-Description| The elves jealously guard this spell. It functions only in wilderness settings, allowing the wizard to instantly and completely hide one per­son per level of experience, concealing them against even thorough searches. The spell changes the coloring and shadowing of the affected individuals to blend in with the natural surroundings. It is effective against infravision and ultravision and is especially useful for scouts and infiltrators. Spell-camouflaged individuals retain all their faculties and abilities, and can emerge from the magical concealment at any time they desire.\n\nThe concealed individuals can move while magically camouflaged, by creeping slowly up to 10 feet each round. Trying to move faster dissipates the spell. As long as the movement is surreptitious and stealthy ("Look, Thrag! That bush moving!"), the spell bolds. As with the invisibility spell, if the warded individuals attack they gain a surprise bonus of initiative and a +4 bonus Lo hit. but the spell is immediately broken.\n\nThe concealed individuals cannot be detected except by magic or by moving stupidly. Until the spell wears off, they enjoy near-total invisibility.\n\nThe material component for the spell is a mistletoe berry.\n\nNotes: Common for elves; very rare or not available to others.
+Name| Camouflage - Elf
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 2 
+Range| 0
+Components| S, M 
+Casting Time| 2 
+Duration| 1 turn/level 
+Area of Effect| 20-ft. radius, 1 person/level
+Saving Throw| Neg. 
+Description| The elves jealously guard this spell. It functions only in wilderness settings, allowing the wizard to instantly and completely hide one person per level of experience, concealing them against even thorough searches. The spell changes the coloring and shadowing of the affected individuals to blend in with the natural surroundings. It is effective against infravision and ultravision and is especially useful for scouts and infiltrators. Spell-camouflaged individuals retain all their faculties and abilities, and can emerge from the magical concealment at any time they desire.\n\nThe concealed individuals can move while magically camouflaged, by creeping slowly up to 10 feet each round. Trying to move faster dissipates the spell. As long as the movement is surreptitious and stealthy ("Look, Thrag! That bush moving!"), the spell bolds. As with the invisibility spell, if the warded individuals attack they gain a surprise bonus of initiative and a +4 bonus Lo hit. but the spell is immediately broken.\n\nThe concealed individuals cannot be detected except by magic or by moving stupidly. Until the spell wears off, they enjoy near-total invisibility.\n\nThe material component for the spell is a mistletoe berry.\n\nNotes: Common for elves; very rare or not available to others.
 
 Name| Catapult
-(Alteration) 
-Level: 1 
-Range: 50 yds. 
-Components: V, S 
-Casting Time: 1
-Duration: J rd. 
-Area of Effect: 1 object 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 1 
+Range| 50 yds. 
+Components| ["V", "S"] 
+Casting Time| 1
+Duration| 1 rd. 
+Area of Effect| 1 object 
+Saving Throw| None 
 Description| By means of this spell, the caster hurls any single item weighing 3 lbs. or less in a straight line in the direction pointed by the wizard. The item heads in that direction until it reaches the range limit of the spell and then falls to the ground. The item must be loose, freestanding, not held by someone, and also light enough to move. (Otherwise the item will quiver in place and the spell will be wasted.)\n\nThis spell can be used offensively to hurl an item into an enemy. The item hits the individual in its path with the caster's THAC0, with a + 3 bonus to the roll. The missile is considered a +3 magical weapon for purposes of hitting an opponent but has no damage bonus (note that items projected by the catapult spell penetrate the protection from normal missiles spell). The damage caused depends on the item catapu1ted but uses the guidelines provided.\n\nNotes: Uncommon spell. Known to be in Detho's Libram.\n\nCatapult Damage Guidelines\nWeapon\t\tAs normal weapon +1\nSmall item\t\t2-3 points\nLarge item (2-3 lbs.)\t2-4 points
 
 Name| Chastise
-(Enchantment, Charm, Song) 
-Level: 3 
-Range: 20 feet 
-Components: V 
-Casting Time: 3 
-Duration: 1 day/level 
-Area of Effect: 1 creature
-Saving Throw: Neg. 
+Class| ["Wizard"]
+School| ["Enchantment", "Charm", "Song"] 
+Level| 3 
+Range| 20 feet 
+Components| ["V"] 
+Casting Time| 3 
+Duration| 1 day/level 
+Area of Effect| 1 creature
+Saving Throw| Neg. 
 Description| This spell is used to verbally chastise any individual who somehow offends the wizard. The offense must be real (e.g., if a wizard catches, someone trying to pick his pocket). If the wizard tries to chastise someone for an imagined slight, the spell has no effect.\n\nIf the target fails his saving throw, be will feel an overwhelming need to abase himself before the caster. The target must perform menial services for the wizard for the duration of the spell all the while apologizing profusely for doing anything that might further offend the wizard The menial tasks that are performed may include, but are not limited to, carrying luggage, hauling refuse, shining shoes, and washing clothes. In no case can the task performed cause personal injury to the affected individual or otherwise endanger his person.\n\nThis spell is a favorite among the elitist wizards and is often used to provide a lesson for lesser individuals who interact with the wizard.\n\nNotes: Common in Arabian settings: otherwise very rare. 
 
-Name| Cloak From Undead 
-(Alteration) 
-Level: 2 
-Range: Touch 
-Components: V, S, M 
-Casting Time: 2 
-Duration: 1 rd./level 
+Name| Cloak From Undead
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 2 
+Range| Touch 
+Components| ["V", "S", "M"] 
+Casting Time| 2 
+Duration| 1 rd./level 
 Area ofEtfect: Creature touched 
-Saving Throw: None 
+Saving Throw| None 
 Description| By means of this spell, the caster or a single creature touched by the spellcaster is cloaked from undead in a similar manner to the priest spell invisibility to undead. The protected creature can take any non-hostile action and any undead nearby will ignore him. If the cloaked individual attacks an undead creature, only the undead that is actually attacked notices the protected individual and is allowed to attack back. A cloaked priest or paladin cannot turn undead.\n\nThis spell is automatically effective against skeletons, zombies, ghouls, shadows, wights, ghasts, and other undead with 5 Hit Dice or fewer. Wraiths, mummies, specters, and more powerful undead are allowed to make a saving throw vs. spell to see the cloaked individual. Vampires and undead creatures with 9 Hit Dice or more make this saving throw automatically. Creatures from other planes and creatures that are not undead arc not affected by this spell.\n\nThe material components of the spell are a piece of bone and a pinch of powdered silver.\n\nNotes: Very rare spell. Known to be in the tome, Against the Undead. 
 
-Name| Cloak of Warding 
-(Abjuration, Force) 
+Name| Cloak of Warding
+Class| ["Wizard"]
+School| ["Abjuration", "Force"] 
 Level| 3 
-Range: 0 
-Components: V, S 
-Casting Time: 3 
-Duration: Special 
-Area of Effect: The caster 
-Saving Throw: None 
+Range| 0 
+Components| ["V", "S"] 
+Casting Time| 3 
+Duration| Special 
+Area of Effect| The caster 
+Saving Throw| None 
 Description| The cloak of warding creates an invisible energy shield to absorb damage from all attacks against the caster. The cloak absorbs 3d4 points of damage plus I point per level of the caster. It can deflect damage from a single attack or from a number of successive attacks. The spell has a maximum duration of 1 round per level of the caster.\n\nThe cloak dissipates when its duration lapses or when it has absorbed all the damage it can.
 
 Name| Cloud Trapeze
+Class| ["Wizard"]
 School| ["Alteration"]
-Level: 8 
-Range: 0 
-Components: V, S, M 
+Level| 8 
+Range| 0 
+Components| ["V", "S", "M"] 
 Casting Tune: 5 
-Duration: 1 turn
-Area of Effect: Caster + 1 creature/4 levels
-Saving Throw: None
-Description| This spell allows the wu jen to soar on a magi­cal cloud at incredible speeds. Upon casting the spell, the wu jcn gently lifts into the air on a small cloud and then whizzes away in whatever direction he desires. The wu jen can take one man­sized creature with him for every four levels he possesses.\n\nThe rate of movement is IO miles every round-in a single tum, the wu jen can cover 1OO miles! Those riding on the cloud feel none of the effects of this swift movement and the ride is perfectly steady and calm, even through the worst weather. At the end of the spell or when the wu jen decides to land, the cloud settles gently to earth and disappears.\n\nThe material component for this spell is a ball of cotton.\n\nNotes: Common in oriental settings: otherwise very rare.
+Duration| 1 turn
+Area of Effect| Caster + 1 creature/4 levels
+Saving Throw| None
+Description| This spell allows the wu jen to soar on a magical cloud at incredible speeds. Upon casting the spell, the wu jen gently lifts into the air on a small cloud and then whizzes away in whatever direction he desires. The wu jen can take one man-sized creature with him for every four levels he possesses.\n\nThe rate of movement is 10 miles every round-in a single tum, the wu jen can cover 1OO miles! Those riding on the cloud feel none of the effects of this swift movement and the ride is perfectly steady and calm, even through the worst weather. At the end of the spell or when the wu jen decides to land, the cloud settles gently to earth and disappears.\n\nThe material component for this spell is a ball of cotton.\n\nNotes: Common in oriental settings: otherwise very rare.
 
 Name| Cook
-(Alteration) 
-Level: 4
-Range:  2 yds.
-Components:  V, S, M
-Casting Time: 4
-Duration: Instantaneous
-Area of Effect: Up to 2  lbs./level
-Saving Throw: None
-Description| Doubtless developed by a forgotten wizard with culinary interests, the cook spell instantly trans­forms the most common and ordinary ingredients into a perfectly prepared feast of the finest and most filling sort. Meats of even dubious freshness and flavor are seasoned to mouth-watering perfection and the exact degree of doneness desired; stale or unappealing vegetables are roasted or broiled to the most demanding tastes. In the process of cooking, all natural harmful agents are removed.\n\nThe spell is completely useless against  living creatures-or even vegetables still in the ground-so the caster cannot render the head of a live goblin well-done, or broil a shambling mound chasing him.\n\nUp to two pounds  of meat and a suitable complement of vegetables, grains, or fruits-a hearty meal for two people--can be prepared per caster level. The caster must specify as he casts the spell how the food is to be cooked and seasoned. The material components are a pinch of tinder and a small dab of sulfur.\n\nNotes: Rare. Known  to be in Prismal's Pocket Library, Vol. IV.
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 4
+Range|  2 yds.
+Components|  ["V", "S", "M"]
+Casting Time| 4
+Duration| Instantaneous
+Area of Effect| Up to 2  lbs./level
+Saving Throw| None
+Description| Doubtless developed by a forgotten wizard with culinary interests, the cook spell instantly transforms the most common and ordinary ingredients into a perfectly prepared feast of the finest and most filling sort. Meats of even dubious freshness and flavor are seasoned to mouth-watering perfection and the exact degree of doneness desired; stale or unappealing vegetables are roasted or broiled to the most demanding tastes. In the process of cooking, all natural harmful agents are removed.\n\nThe spell is completely useless against  living creatures-or even vegetables still in the ground-so the caster cannot render the head of a live goblin well-done, or broil a shambling mound chasing him.\n\nUp to two pounds  of meat and a suitable complement of vegetables, grains, or fruits-a hearty meal for two people--can be prepared per caster level. The caster must specify as he casts the spell how the food is to be cooked and seasoned. The material components are a pinch of tinder and a small dab of sulfur.\n\nNotes: Rare. Known  to be in Prismal's Pocket Library, Vol. IV.
 
 Name| Copy
-(Evocation, Geometry) 
-Level: 1
-Range: Special 
-Components: V, S, M 
-Casting Time: 1 rd. 
-Duration: Instantaneous 
-Area of Effect: 1 page or book 
-Saving Throw: Special 
+Class| ["Wizard"]
+School| ["Evocation", "Geometry"] 
+Level| 1
+Range| Special 
+Components| ["V", "S", "M"] 
+Casting Time| 1 rd. 
+Duration| Instantaneous 
+Area of Effect| 1 page or book 
+Saving Throw| Special 
 The copy spell enables the caster to make a perfect copy of a map, letter, or other written or drawn document. The caster must have a blank parchment or a book with blank pages of sufficient size to hold the copy. The caster holds the blank object over the object to be copied, then casts the speU; the copy appears on the formerly blank object The length of the text is limited to 10 pages of standard size (roughly 9 inches by 12 inches).\n\nThe copy is permanent and is a perfect duplicate of the original. The spell cannot duplicate magical writings of any sort.\n\nThe material components for this spell are a piece of blank parchment (or a book with blank pages), and a drop of black ink.\n\nNotes: Uncommon spell.
 
 Name| Crystalbrittle
-(Alteration, Alchemy) 
-Level: 9 
-Range: Touch 
-Components: V,S 
-Casting Time: 9
-Duration: Instantaneous 
-Area of Effect: 2 cu. ft./level 
-Saving Throw: Special 
+Class| ["Wizard"]
+School| ["Alteration", "Alchemy"] 
+Level| 9 
+Range| Touch 
+Components| ["V", "S"] 
+Casting Time| 9
+Duration| Instantaneous 
+Area of Effect| 2 cu. ft./level 
+Saving Throw| Special 
 The magic of this spell causes metal, whether as soft as gold or as hard as adamantite, to turn to a crystalline substance as brittle and fragile as crystal. Thus, a sword, metal shield, metal armor, or even an iron golem can be changed to a delicate, glasslike material easily shattered by any forceful blow. Furthermore, this change is unalterable by any means short of a wish spell; a dispel magic will not reverse the spell.\n\nThe caster must physically touch the item; if it is an opponent or something an opponent is using or wearing, the wizard must get into melee and make a successful attack roll. Any single metal item can be affected by the spell. Thus, a suit of armor worn by a creature can be changed to crystal, but the creature's shield would not be affected, and vice versa. All items gain a saving throw equal to their magical bonus value or protection (the OM has this information). A +1/+3 sword would get a 10% chance to save (average of the two pluses); +5 magical armor has a 25% chance to be unaffected; an iron golem has a 15% chance to save (for it is hit only by magical weapons of +3 or better quality). Artifacts and relics constructed of metal can be affected at the discretion of the DM, though it is highly unlikely. Affected items not immediately protected are shattered and permanently destroyed if struck by a normal blow from a metal tool or any weighty weapon, including a staff.\n\nNotes: Common spell (PHB).
 
 Name| Damage Mirror – Old Empire
-(Alteration) 
-Level: 2 
-Range: 0 
-Components: V, S, M 
-Casting Time: 2 
-Duration: Special (one use) 
-Area of Effect: 10-ft. radius 
-Saving Throw: None 
+Class| ["Wizard"]
+School| ["Alteration"] 
+Level| 2 
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 2 
+Duration| Special (one use) 
+Area of Effect| 10-ft. radius 
+Saving Throw| None 
 This spell is the bane of those who like to melee wizards. If a damage mirror spell is active, the wizard is not protected against attack, but if the wizard is struck by a weapon, there is a sound of shattering glass, and every creature attacking the wizard and within a 10-foot radius suffers an identical amount of damage. Thus an archer firing at range against a wizard is not be affected. but a swordsman 10 feet away from the wizard is.\n\nThe spell is canceled once it has been triggered; if the opponents have multiple attacks m that melee round, only the first successful attack triggers the damage mirror spell. This spell is not affected by spells or magical attacks, except for dispel magic, which has a normal chance of negating it. If not triggered, it lasts for 1 round per level of the caster.\n\nIf the caster is endangered by a special melee attack from an assassin that could slay him instantly, the assassin can roll a Dexterity check to realize the nature of the wizard's protection and avoid striking a fatal blow. Otherwise a fatal blow to the wizard kills the assassin instantly.\n\nThe material component for this spell is crushed glass from a broken mirror.\n\nNotes: Very rare spell. As a FORGOTTEN REALMS Old Empire spell, initial exposure requires a mentor or a read Southern magic spell.
 
 Name| Death Recall
-(Divination, Necromancy, Mentalism) 
-Level: 2 
-Range: Touch 
-Components: V, S, M 
-Casting Time: 1 rd. 
-Duration: 1 turn 
-Area of Effect: 1 corpse 
-Saving Throw: None 
+Class| ["Wizard"]
+School| (Divination, "Necromancy", "Mentalism"] 
+Level| 2 
+Range| Touch 
+Components| ["V", "S", "M"] 
+Casting Time| 1 rd. 
+Duration| 1 turn 
+Area of Effect| 1 corpse 
+Saving Throw| None 
 Description| This spell enables the caster to visualize the final minutes of the life of any creature or person that died within the previous 24 hours. When the caster touches the subject's corpse, the caster goes into a trance. The caster then has a vision of the final 10 minutes of the subject's life as seen by the subject himself. The vision ends with the last scene the subject saw before he died, at which time the caster awakens from his trance and the spell is over.\n\nThe material component for this spell is a fragment from a shattered mirror.\n\nNotes: Restricted to diviners, mentalists, and necromancers; uncommon.
 
 Name| Disarm
-(Evocation, Mentalism) 
-Level: 1 
-Range: 100 yds. 
-Components: V, S 
-Casting Time: 1 
-Duration: Instantaneous 
-Area of Effect: 1 person 
-Saving Throw: Neg. 
+Class| ["Wizard"]
+School| ["Evocation", "Mentalism"] 
+Level| 1 
+Range| 100 yds. 
+Components| ["V", "S"] 
+Casting Time| 1 
+Duration| Instantaneous 
+Area of Effect| 1 person 
+Saving Throw| Neg. 
 Description| This spell summons minor telekinetic bursts that cause a person to drop any hand-held weapons or items. The bursts have enough force to move the items 1d20 feet away from the former wielder, forcing the person to spend a round retrieving his weapons or carried items. This spell affects only handheld items, not rings or belts or other items, unless these are physically carried in the hands (not worn).\n\nNotes: Uncommon for mentalists and the Watch of Waterdeep; otherwise rare.
 
-Name| Dolent's Helm 
-(Abjuration, Evocation, Mentalism) 
-Level: 1 
-Range: Touch 
-Components: V. S 
-Casting Time: 3 
-Duration: 3 rds. + 1 rd./level 
-Area of Effect: Creature touched 
-Saving Throw: None 
+Name| Dolent's Helm
+Class| ["Wizard"]
+School| ["Abjuration", "Evocation", "Mentalism"]
+Level| 1 
+Range| Touch 
+Components| ["V", "S"] 
+Casting Time| 3 
+Duration| 3 rds. + 1 rd./level 
+Area of Effect| Creature touched 
+Saving Throw| None 
 Description| This spell causes a transparent helm of psionic energy to come into being about the recipient's head. The helm allows a saving throw vs. spell against all psionic attacks, as well as any psionic devotions or sciences that allow mental influence or control. Dolent's helm provides no protection against spells.\n\nThe spell fails if the recipient is wearing any head covering when the spell is cast; also, the spell does not work while any head covering is worn. If the protected creature would be allowed a saving throw against a psionic ability for any other reason, the creature can use the most advantageous defense.\n\nNotes: Very rare spell. (Updated from POLYHEDRON Newszine.)
 
-Name| Preserve Dead 
-(Necromancy) 
-Level: 1 
-Range: 10 yds. 
-Components: S, M 
-Casting Time: 1 rd. 
-Duration: 1 day/level 
-Area of Effect: 1 body/2 levels 
-Saving Throw: None 
+Name| Preserve Dead
+Class| ["Wizard"]
+School| ["Necromancy"] 
+Level| 1 
+Range| 10 yds. 
+Components| ["S", "M"] 
+Casting Time| 1 rd. 
+Duration| 1 day/level 
+Area of Effect| 1 body/2 levels 
+Saving Throw| None 
 Description| This spell delays the onset of decay, preserving a corpse in its current condition for the spell 's duration. The wizard can affect one corpse at 1st level, two corpses at 3rd level, three at 5th, and so on to a maximum of five bodies at 9th level. While the spell is in effect, the corpses do not rot or experience any other form of decay. Even corpses that are doomed to rise again as undead ( such as individuals slain by ghouls or wights) or that host parasitic monsters, such as individuals killed by rot grubs, remain perfectly preserved throughout the spell's duration.\n\nPreserve dead has two important effects. First, it extends the amount of time in which a raise dead spell can be effective--days in which the body is under the influence of preserve dead do not count against the normal limitations of the raise dead spell. Second, preserving a body renders it more suitable for subsequent animation as a zombie. Any corpse animated while the spell is still in effect gains a bonus of + 1 hit point per Hit Die when animated as a zombie, monster zombie, or juju zombie.\n\nThe material component for this spell is a pinch of quicklime.\n\nNotes: Restricted to necromancers; uncommon.
 
-Name| Elminster's Effulgent Epuration 
-(Abjuration) 
-Level: 9 
-Range: 10 ft./level 
-Components: V. S 
-Casting Time: 1 
-Duration: 1 turn/level 
-Area of Effect: Special 
-Saving Throw: None 
-Description| This powerful spell calls into being a number of floating, silver spheres, up to as many spheres as the caster has levels. Each of these spheres has the ability to absorb a single spell, spell-like ability, or magical effect of any offensive type. After absorbing the spell the sphere fades out, taking the spell energy with it.\n\nOffensive spells can be generally considered those that inflict damage on t.he target or place the target under a baneful or harmful influence. Passive spells (such as walls) can sometimes be used in situations with harmful intent. Intent and situation are as important as spell effect for deter­mining whether a spell is offensive or not for purposes of the epuration working. Various walls, spheres, some of Bigby's spells, and most abjurations will not affect the epuration spell. Those spells that have area effects in which a silver sphere exists (such as fireball) will simply not function-the magical energy will be sucked into the sphere before the damage is inflicted.\n\nSpells that are already in effect when the silver spheres enter them are not affected by this spell, but they are automatically negated if cast within 10 feet of a silver sphere. Items with charges of offensive spells (such as wands) can be negated if the the sphere is placed on or in front of the wand. Otherwise, the spheres do not affect magi­cal items or weapons., or potentially lethal items that are not activated, such as symbols.\n\nThe caster can direct the spheres to drift at a maximum movement rate of 60 feet per round, up to the limit of the spel1 range. The spheres created from a single epuration must move as a group, the caster cannot move them individually or split them up. The wizard creating them can cast other spells, but cannot move the spheres in the same round.\n\nThe caster can move and fight and move the spheres at the same time. If the caster leaves the area without the spheres, they remain until they absorb an offensive spell. Similarly, if the caster is slain, the silver spheres remain in the area, not moving, but not inflicting any damage.\n\nThe silvery spheres of epuration cannot be physically moved or attacked. They have no solid physical presence and can pass through magical and physical barriers alike without harm.\n\nNeither the caster nor anyone else can harness the spell energy dissipated by the spheres. Even the spell-like abilities of powers and creatures from other planes can be affected by the silvery spheres of an epuration, though the beings them­selves may not be.\n\nNotes: Very rare spell; known to Elminster.
+Name| Elminster's Effulgent Epuration
+Class| ["Wizard"]
+School| ["Abjuration"]
+Level| 9 
+Range| 10 ft./level 
+Components| ["V", "S"] 
+Casting Time| 1 
+Duration| 1 turn/level 
+Area of Effect| Special 
+Saving Throw| None 
+Description| This powerful spell calls into being a number of floating, silver spheres, up to as many spheres as the caster has levels. Each of these spheres has the ability to absorb a single spell, spell-like ability, or magical effect of any offensive type. After absorbing the spell the sphere fades out, taking the spell energy with it.\n\nOffensive spells can be generally considered those that inflict damage on t.he target or place the target under a baneful or harmful influence. Passive spells (such as walls) can sometimes be used in situations with harmful intent. Intent and situation are as important as spell effect for determining whether a spell is offensive or not for purposes of the epuration working. Various walls, spheres, some of Bigby's spells, and most abjurations will not affect the epuration spell. Those spells that have area effects in which a silver sphere exists (such as fireball) will simply not function-the magical energy will be sucked into the sphere before the damage is inflicted.\n\nSpells that are already in effect when the silver spheres enter them are not affected by this spell, but they are automatically negated if cast within 10 feet of a silver sphere. Items with charges of offensive spells (such as wands) can be negated if the the sphere is placed on or in front of the wand. Otherwise, the spheres do not affect magical items or weapons., or potentially lethal items that are not activated, such as symbols.\n\nThe caster can direct the spheres to drift at a maximum movement rate of 60 feet per round, up to the limit of the spel1 range. The spheres created from a single epuration must move as a group, the caster cannot move them individually or split them up. The wizard creating them can cast other spells, but cannot move the spheres in the same round.\n\nThe caster can move and fight and move the spheres at the same time. If the caster leaves the area without the spheres, they remain until they absorb an offensive spell. Similarly, if the caster is slain, the silver spheres remain in the area, not moving, but not inflicting any damage.\n\nThe silvery spheres of epuration cannot be physically moved or attacked. They have no solid physical presence and can pass through magical and physical barriers alike without harm.\n\nNeither the caster nor anyone else can harness the spell energy dissipated by the spheres. Even the spell-like abilities of powers and creatures from other planes can be affected by the silvery spheres of an epuration, though the beings themselves may not be.\n\nNotes: Very rare spell; known to Elminster.
 
-Name| Embalm 
-(Necromancy) 
-Level: 2 
-Range: Touch 
-Components: V. S, M 
-Casting Time: 2 rds. 
-Duration: Instantaneous 
+Name| Embalm
+Class| ["Wizard"]
+School| ["Necromancy"] 
+Level| 2 
+Range| Touch 
+Components| ["V", "S", "M"] 
+Casting Time| 2 rds. 
+Duration| Instantaneous 
 Area of Effect 1 corpse 
-Saving Throw: None 
+Saving Throw| None 
 An embalm spell enables the caster to protect a corpse (or a part thereof) against the natural forces of decay and dissolution, until some later time when it is needed for a spell. (f the embalmed cadaver is later animated as a zombie, golem, or other form of animated undead, the creature gains +2 hit points per Hit Die (8 hp per Hit Die maximum) because of the greater strength and resiliency imparted by the spell to the dead tissue. The spell has no beneficial effect if cast on skeletal remains or on previously animated undead.\n\nThus preserved, a corpse permanently retains the same odor and appearance it had at the time of casting. The embalm spell does not reverse the effects of putrefaction, but it does prevent any further decay of an individual's physical remains. Unlike more powerful spells (such as Nulathoe's ninemen or the priest spell spirit bind), the embalm spell does not facilitate subsequent resurrection of a corpse.\n\nThe material component is a salve of rare unguents worth 100 gp.\n\nNotes: Restricted to necromancers; uncommon.
 
-Name| Elude Blow 
-(Abjuration, Force) 
+Name| Elude Blow
+Class| ["Wizard"]
+School| ["Abjuration", "Force"] 
 Reversible 
-Level: 4 
-Range: lO yds/level 
-Components: V, S 
-Casting Time: I 
-Duration: I rd 
-Area of Effect: 20-ft. radius 
-Saving Throw: None 
+Level| 4 
+Range| 10 yds/level 
+Components| ["V", "S"] 
+Casting Time| 1 
+Duration| 1 rd 
+Area of Effect| 20-ft. radius 
+Saving Throw| None 
 Description| The wizard can select any melee strikes in the area of effect and make them miss. Both weapons and natural attacks (claws, teeth, etc.), including touch-delivered spells, appear to be knocked aside by an unseen force. The spell takes effect either in the round of casting, or in the following round, as the caster decides at the instant of casting.\n\nThe caster can affect one creature per level. The spell has no effect on any creature with more Hit Dice or levels than the caster has experience levels. Creatures immune to most magic, such as golems, and those of demigod status or better are not affected. All of these count against the wizard's limit if targeted.\n\nThe reverse of this spell, dooms trike, has the same range, area of effect, and limitations as elude blow. but all melee strikes selected in the area receive a +4 bonus to attack rolls.\n\nNotes: Uncommon for abjurers and Force mages; otherwise rare.
 
-Name| Elminster's Multiple Mouths 
-(Evocation) 
-Level: 3 
-Range: Special 
-Components: V, S 
-Casting Time: 1 rd. 
-Duration: 1 rd./level 
-Area of Effect: Special 
-Saving Throw: None 
+Name| Elminster's Multiple Mouths
+Class| ["Wizard"]
+School| ["Evocation"] 
+Level| 3 
+Range| Special 
+Components| ["V", "S"] 
+Casting Time| 1 rd. 
+Duration| 1 rd./level 
+Area of Effect| Special 
+Saving Throw| None 
 Description| This spell creates one magic mouth per level of the caster. These are akin to those created by the 2nd-level wizard spell of the same name. The mouths can appear on specific items or float in midair just above the head of a chosen recipient. A recipient must be personally known to the caster or met and clearly seen at least once; how• ever, the being's current location need not be known. The multiple mouths even can be made to appear in a chorus in the same locale, usuaJly in a ring around a specific point.\n\nThe mouths can speak any message uttered by the caster during casting, duplicating tone of voice, hesitations, volume, and the like, and can pass on magical words of activation and instructions. An actual spell incantation uttered by a multiple mouth would not function, nor can its utterances trigger magical items. Someone who heard the mouth and repeated its words could activate a magical item, however.\n\nThis spell has often been used to spread a warning-of an attack or fire, for example-in multiple locations throughout a castle or to share information between widely scattered beings (such as all of the Seven Sisters at once). The multiple mouths can appear anywhere on the same plane of existence, regardless of magical barriers or distance. 
-A caster of this spell who possesses IO or more experience levels can, by increasing the casting time of the spell by one round per message, cause the multiple mouths to each speak different messages. In doing so, the caster can also vary their speaking times so that those mouths that appear in the same place can be made to speak one after another in a particular sequence. A caster of this spell who is 10th level or greater can alternatively elect to create only a single mouth, but have it repeat the same message once per round until the spell expires.\n\nThe duration of the spell determines how long the mouths remain visible if the caster wants them to wait before triggering their speech (each mouth vanishes after it has spoken once).\n\nThis spell is named for its creator, the famous Old Mage of Shadowdale. It is used by some senior Harpers and by the Seven Sisters, who usually change its manifestation from bearded mouths with Elminster's dry voice to ruby-red female lips accompanied by a husky voice.\n\nNotes: Restricted to the Elminster, the Seven Sisters, Khelben, and those trained by them; uncommon.
+A caster of this spell who possesses 10 or more experience levels can, by increasing the casting time of the spell by one round per message, cause the multiple mouths to each speak different messages. In doing so, the caster can also vary their speaking times so that those mouths that appear in the same place can be made to speak one after another in a particular sequence. A caster of this spell who is 10th level or greater can alternatively elect to create only a single mouth, but have it repeat the same message once per round until the spell expires.\n\nThe duration of the spell determines how long the mouths remain visible if the caster wants them to wait before triggering their speech (each mouth vanishes after it has spoken once).\n\nThis spell is named for its creator, the famous Old Mage of Shadowdale. It is used by some senior Harpers and by the Seven Sisters, who usually change its manifestation from bearded mouths with Elminster's dry voice to ruby-red female lips accompanied by a husky voice.\n\nNotes: Restricted to the Elminster, the Seven Sisters, Khelben, and those trained by them; uncommon.
 
-Name| Elminster's Evasion 
-(Evocation) 
-Level: 9 
-Range: 0 
-Components: V, S, M 
-Casting Time: 1 turn + total casting times Duration: Instantaneous 
-Area of Effect: The caster 
-Saving Throw: None 
+Name| Elminster's Evasion
+Class| ["Wizard"]
+School| ["Evocation"] 
+Level| 9 
+Range| 0 
+Components| ["V", "S", "M"] 
+Casting Time| 1 turn + total casting times
+Duration| Instantaneous 
+Area of Effect| The caster 
+Saving Throw| None 
 A customized version of the contingency spell slanted toward the preservation of the caster, this spell will cause, under certain specific conditions, the caster's body, mind, and spirit to travel to another location. The transfer is automatic and transfers only the body and those items physically attached 10 ii, but leaving behind any attached items weighing more than 50 lbs. individually. The spell brings together body, spirit, and mind. even if in different locations. When casting this spell, the wizard must detail six specific conditions that the evasion will function under. When any of these situations occurs, the caster's form is whisked away to the location. This location can be on the same plane or on any other known plane of existence or demiplane that the wizard has visited. Also when casting the spell, the wizard indicates two other speJls (cast immediately after the evasion by the wizard) that will be cast once the wizard arrives at the location.\n\nThe material components of this spell are a pint of the caster's blood and a gem worth at least 5,000 gp. Both are consumed in the casting of the spell. The wizard also immediately loses 1-4 hit points, which remain lost until the evasion spell is triggered, at which point they are immediately recovered.\n\nThis spell was developed by Elminster of Shadowdale, with the intention of taking his form to a dimensional location he calls "Safehold" for cures and resurrection (if needed). As an example, the six clauses he says he uses are:\n\n1. Upon his own death;\n2. Upon loss of his mental faculties;\n3. Upon loss of his physical faculties;\n4. Upon destruction of both upper limbs;\n5. Upon destruction of total body volume;\n6. Upon his utterance of the word "Thaele."\n\nSupposedly Safehold contains enough contingencies, spells, and magical items to effect a safe rescue of the sage of Shadowdale, should it be necessary.\n\nNotes: Rare or very rare spell from the FORGOTTEN REALMS setting.
 
 Name| Entomb
-(Alteration) 
-(Province: Sand) 
-Level: 3 
-Range: 30 yds. 
-Components: V, M 
-Casting Time: 3 
-Duration: 1 turn + 1 rd./level
-Area of Effect: 30-ft. cube
-Saving Throw: Neg. 
+Class| ["Wizard"]
+School| ["Alteration", "Sand"] 
+Level| 3 
+Range| 30 yds. 
+Components| ["V", "M"] 
+Casting Time| 3 
+Duration| 1 turn + 1 rd./level
+Area of Effect| 30-ft. cube
+Saving Throw| Neg. 
 Description| This spell captures creatures in its area of effect by raising a block of solid stone out of the earth to engulf them. The block must be raised from natural earth, sand, rock or similar material, though it can burst through natural vegetation. Each target creature must make a successful saving throw vs. spell or be swallowed by the rock. Captured creatures can still breathe and speak, but, they cannot break free or move unless they can pass through solid stone. Creatures that make their saving throws are not enfolded by the rising stone and are instead flung out of the area of effect.\n\nThis spell is popular among dao slavetakers. Because it requires no somatic component, it can be used to preserve the secrecy of a slaving mission.\n\nThe material component is a cube of stone scored with lines on each side.\n\nNotes: Common in Arabian settings; very rare elsewhere.
 
 Name| Etherealness
-(Alteration, Dimension) 
-Level: 6 
-Range: Touch 
-Components: V. S 
-Casting Time: I 
-Duration: 1 hr./level 
-Area of Effect: Creature(s) touched
-Saving Throw: Neg. 
+Class| ["Wizard"]
+School| ["Alteration", "Dimension"]
+Level| 6 
+Range| Touch 
+Components| ["V", "S"]
+Casting Time| I 
+Duration| 1 hr./level 
+Area of Effect| Creature(s) touched
+Saving Throw| Neg. 
 Description| By means of this spell, the wizard and up to six other creatures joined by linked hands become ethereal (along with their equipment). While ethereal, the group need not stay together. The group's presence can be detected only by detect phase. true seeing. or similar spells and effects. No physical. or magical attack can affect them, unless the assailant is ethereal as well (although some monsters, such as the basilisk, have gaze weapons whose power extends into the Ethereal Plane). The spell recipients arc actually in the Border Ethereal and can still perceive their physical surroundings, but the world appears gray, misty, and indistinct to them. Note that as ethereal creatures here can perceive the physical world, an individual could scout out his surroundings or make good an escape from the safety of the Border Ethereal. 
 The wizard and bis companions can remain in the Border Ethereal for up to one hour per level; when the spell expires, they return to normal existence, although the wizard can choose to end the spell before its full duration. The wizard also bas the option of moving himself or the group from the Border Ethereal into the Deep Ethereal, in which case they remain ethereal when the spell ends. He will have to use this spelJ again or find another way back in order to return to the home plane.\n\nThe wizard can use etherealness to banish an unwilling subject. He must make a successful attack roll in order to touch him, and the subject receives a saving throw vs. spell to negate the effect. An unwilling subject automatically remains in the Border Ethereal for an amount of time specified by the wizard at the time of the casting, but no more than one hour per caster level. When used like this, etherealness does not affect the caster, only the subject.\n\nNotes: Uncommon for dimensionists; otherwise very rare (PO:SM).
 
 Name| Everlasting Fire
-(Evocation, Fire)
-Level: 4 
-Range: 5 yds. 
-Components: V, S, M 
-Casting Time: 4 
-Duration: Permanent 
+Class| ["Wizard"]
+School| ["Evocation", "Fire"]
+Level| 4 
+Range| 5 yds. 
+Components| ["V", "S", "M"] 
+Casting Time| 4 
+Duration| Permanent 
 Area ofEffect: 1 object or construct 
-Saving Throw: None 
+Saving Throw| None 
 This spell creates a very small gate to the Elemental Plane of Fire, calling through flame about equal to that on a torch. The flame is completely normal in all ways, except that since it comes from the Elemental Plane ofFire, It needs no fuel and continues to burn under any circumstance-­ without air, underwater, when covered with sand, etc. The flame lights any flammables that touch it, and it never goes out unless a dispel magic spell (or a stronger spell, like limited wish) is used to extinguish it.\n\nThe everlasting fire spell can be cast on a mobile or stationary object, but it bums anything flammable. The spell cannot be placed on any type of creature accept a magical construct. Most casters place everlasting fire on an object made of stone or sturdy metal.\n\nThis spell can be used to make a magical item in the same manner as continual light can be placed on a rod. Such an "everburning torch" must be made of some nonflammable material. In order for the item to be carried safely, some insulation should be used. A Daltim's proof against fire spell (described elsewhere) is a good way to make it possible to carry the "everburning torch."\n\nThe material components for this spell are a bit of wood soaked in lamp oil; the material is consumed during casting.\n\nNotes: Rare spell. Known to be in Daltim's Tome of Fire.
 
-Name| Flame Arrow 
-(Conjuration/Summoning) 
-(Alchemy, Artifice, Fire) 
-Level: 3 
-Range: 30 yds. + 10 yds./level 
-Components: V, S, M 
-Casting Time: 3 
-Duration: 1 rd. 
-Area of Effect: Special 
-Saving Throw: None 
+Name| Flame Arrow
+Class| ["Wizard"]
+School| ["Conjuration", "Summoning", "Alchemy", "Artifice", "Fire"] 
+Level| 3 
+Range| 30 yds. + 10 yds./level 
+Components| ["V", "S", "M"] 
+Casting Time| 3 
+Duration| 1 rd. 
+Area of Effect| Special 
+Saving Throw| None 
 Description| This spell has two effects, First, the wizard can cause normal arrows or crossbow bolts lo become magical flaming missiles for one round. The missiles must be nocked and drawn (or cocked) at the completion of the spell. If they are not loosed within one round, they are consumed by the magic. For every five levels the caster has achieved, up to 10 arrows or bolts can be affected. The arrows inflict normal damage, plus 1 point of fire damage to any target struck. They may also cause incendiary damage. This version of the spell is used most often in large battles.\n\nThe second version of this spell enables the caster to hurl fiery bolts at opponents within range. Each bolt inflicts 1d6 points of piercing damage, plus 4d6 points of fire damage. Only half the fire damage is inflicted if the creature. sLruck successfully saves vs. spell. The caster receives one bolt for every five experience levels (two bolts at 10th level, three at 15th level, etc.). Bolts must be used on creatures within 20 yards of each other and in front of the wizard.\n\nThe material components for this spell are a drop of oil and a small piece of flint.\n\nNotes: Common spell (PHJJ).
 
-Name| Flann's Finery 
-(Abjuration) 
-Level: 2 
-Range: Touch 
-Components: V, S 
-Casting Time: 1 rd. 
-Duration: 1 day/level 
-Saving Throw: None 
-Area of Effect: Creature touched 
+Name| Flann's Finery
+Class| ["Wizard"]
+School| ["Abjuration"] 
+Level| 2 
+Range| Touch 
+Components| ["V", "S"] 
+Casting Time| 1 rd. 
+Duration| 1 day/level 
+Saving Throw| None 
+Area of Effect| Creature touched 
 Description| Using Fiann s finery, a wizard ( or other spell recipient) can resist din, blood, sweat, and other undesirable substances that otherwise would soil their persons or clothing. Although this spell in no way protects an individual from damage due to acid. disease, etc., it keeps him looking good. 1L preserves metal items from rust and tarnish and keeps clothing from tearing or wearing thin. The somewhat fussy wizard Fiann developed Fiann's finery 10 keep an appearance of nobility even while fighting or traveling. Fiann always included this as a mandatory part of a student's spellbook to maintain standards of decorum.\n\nNotes: Uncommon or rare spell; originally from the MYSTARA setting.
 
 Name| Fleet Feet
-(AJteratlon) 
-RevenJblc 
-Level: 3 
-Range: Touch Components: V. S, M Casting Time: 3
-Duration: 1 day/5 levels
-Area of Effect 1 individual
-Saving Throw: Neg.
+Class| ["Wizard"]
+School| ["Alteration"] 
+Reversible
+Level| 3 
+Range| Touch
+Components| ["V", "S", "M"]
+Casting Time| 3
+Duration| 1 day/5 levels
+Area of Effect| 1 individual
+Saving Throw| Neg.
 Description| This spell allows an individual to move more quickly. The one affected can take very large strides, as if his feet and legs weighed far less then they actually do. For purposes of cross country movement. an affected individual con double his normal movement rate (and can force march beyond that, though still subject to the forced march effects). The individual's movement rate is doubled in combat situations as well, but his balance and inertia make it difficult to maneuver. If moving greater than his normal movement rate and attempting to turn in any way, such as to round a comer or to avoid an obstacle, the individual must make a successful Dexterity check to avoid falling (failure ends his movement for the round and makes him prone).\n\nThe material component for this spell is a feather from a flightless bird, such as an erdlu.\n\nThe reverse of this spell, stone Jeer, makes the affected individual's legs feel as heavy as rock, slowing bis movement to half. A saving throw negates this effect. The individual's balance is unaffected.\n\nThe material component for the reverse is a piece of mekillot hide.\n\nNotes: Common on Athas (the DARK SUN setting); virtually unknown elsewhere.
 
