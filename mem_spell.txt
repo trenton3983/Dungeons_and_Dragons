@@ -122,7 +122,7 @@ Name: Mordenkainen's Encompassing Vision
 Class: ["Wizard"]
 School: ["Alteration"]
 Level: 2 
-Range:Touch 
+Range: Touch 
 Components: V, S, M 
 Casting Time: 1 rd. 
 Duration: 1 hr./level 
@@ -130,3 +130,14 @@ Area of Effect: Creature touched
 Saving Throw: None 
 Description| This spell grants a creature a full 360 degrees of vision, so the creature can see to the sides and rear as well as it sees to the front. The creature cannot be surprised from the rear by any attacker that the creature can see normally. The spell works in combination with any sort of enhanced or magical vision, including infravision, ultravision, or x-ray vision. A creature with both detect invisibility and encompassing vision can see invisible, ethereal, or astral beings to its flanks or rear as well. The person affected by this spell also has a -2 penalty on all saving throws vs. gaze attacks.\n\nThe material component is a crystal disc with eight eyes inscribed upon it, spaced at 45-degree intervals around the edge of the disc.\n\nNotes: Uncommon or rare spell (WoG).
 
+Name: Cat's Grace
+Class: ["Wizard"]
+School: ["Alteration"]
+Level: 2
+Range: Touch
+Components: V, S, M
+Casting Time: 2
+Duration: 1 hr./level
+Area of Effect: Creature touched
+Saving Throw: None
+Description| Just as a strength spell can increase a subject's physical power for a time, cat's grace can enhance a subject's Dexterity.  All abilities and skills that are Dexterity-based may be affected by an enhanced Dexterity score, including a subject's reaction adjustment, missile attack adjustment, defensive adjustment, Dexterity-based proficiency scores, and adjustments to thief abilities. The exact amount of Dexterity gained depends on the subject's class; multi-classed characters use the most favorable die.\n\nClass Dexterity Gain\nRogue 1d8 points\nWarrior 1d6 points\nWizard 1d6 points\nPriest 1d4 points\n\nThe spell cannot confer a Dexterity score of 20 or more, and it is not cumulative with any other Dexterity-enhancing magical or psionic power. Subjects without Dexterity scores gain a -1 bonus to AC and a +1 to attack rolls with missiles for the duration of the spell. The material component for this spell is a few whiskers from an elven cat.\n\nFrom Player's Options - Spells & Magic.
